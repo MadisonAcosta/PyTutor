@@ -1,0 +1,931 @@
+Model Name,Mobile Weight,RAM,Processor,Screen Size,Battery Capacity
+iPhone 16 128GB,174g,6GB,A17 Bionic,6.1 inches,"3,600mAh"
+iPhone 16 256GB,174g,6GB,A17 Bionic,6.1 inches,"3,600mAh"
+iPhone 16 512GB,174g,6GB,A17 Bionic,6.1 inches,"3,600mAh"
+iPhone 16 Plus 128GB,203g,6GB,A17 Bionic,6.7 inches,"4,200mAh"
+iPhone 16 Plus 256GB,203g,6GB,A17 Bionic,6.7 inches,"4,200mAh"
+iPhone 16 Plus 512GB,203g,6GB,A17 Bionic,6.7 inches,"4,200mAh"
+iPhone 16 Pro 128GB,206g,6GB,A17 Pro,6.1 inches,"4,400mAh"
+iPhone 16 Pro 256GB,206g,8GB,A17 Pro,6.1 inches,"4,400mAh"
+iPhone 16 Pro 512GB,206g,8GB,A17 Pro,6.1 inches,"4,400mAh"
+iPhone 16 Pro Max 128GB,221g,6GB,A17 Pro,6.7 inches,"4,500mAh"
+iPhone 16 Pro Max 256GB,221g,8GB,A17 Pro,6.7 inches,"4,500mAh"
+iPhone 16 Pro Max 512GB,221g,8GB,A17 Pro,6.7 inches,"4,500mAh"
+iPhone 15 128GB,171g,6GB,A16 Bionic,6.1 inches,"3,200mAh"
+iPhone 15 256GB,171g,6GB,A16 Bionic,6.1 inches,"3,200mAh"
+iPhone 15 512GB,171g,6GB,A16 Bionic,6.1 inches,"3,200mAh"
+iPhone 15 Plus 128GB,203g,6GB,A16 Bionic,6.7 inches,"4,300mAh"
+iPhone 15 Plus 256GB,203g,6GB,A16 Bionic,6.7 inches,"4,300mAh"
+iPhone 15 Plus 512GB,203g,6GB,A16 Bionic,6.7 inches,"4,300mAh"
+iPhone 15 Pro 128GB,206g,6GB,A16 Bionic,6.1 inches,"4,400mAh"
+iPhone 15 Pro 256GB,206g,8GB,A16 Bionic,6.1 inches,"4,400mAh"
+iPhone 15 Pro 512GB,206g,8GB,A16 Bionic,6.1 inches,"4,400mAh"
+iPhone 15 Pro Max 128GB,221g,6GB,A16 Bionic,6.7 inches,"4,500mAh"
+iPhone 15 Pro Max 256GB,221g,8GB,A16 Bionic,6.7 inches,"4,500mAh"
+iPhone 15 Pro Max 512GB,221g,8GB,A16 Bionic,6.7 inches,"4,500mAh"
+iPhone 14 128GB,172g,6GB,A15 Bionic,6.1 inches,"3,200mAh"
+iPhone 14 256GB,172g,6GB,A15 Bionic,6.1 inches,"3,200mAh"
+iPhone 14 512GB,172g,6GB,A15 Bionic,6.1 inches,"3,200mAh"
+iPhone 14 Plus 128GB,203g,6GB,A15 Bionic,6.7 inches,"4,325mAh"
+iPhone 14 Plus 256GB,203g,6GB,A15 Bionic,6.7 inches,"4,325mAh"
+iPhone 14 Plus 512GB,203g,6GB,A15 Bionic,6.7 inches,"4,325mAh"
+iPhone 14 Pro 128GB,206g,6GB,A16 Bionic,6.1 inches,"4,200mAh"
+iPhone 14 Pro 256GB,206g,8GB,A16 Bionic,6.1 inches,"4,200mAh"
+iPhone 14 Pro 512GB,206g,8GB,A16 Bionic,6.1 inches,"4,200mAh"
+iPhone 14 Pro Max 128GB,221g,6GB,A16 Bionic,6.7 inches,"4,500mAh"
+iPhone 14 Pro Max 256GB,221g,8GB,A16 Bionic,6.7 inches,"4,500mAh"
+iPhone 14 Pro Max 512GB,221g,8GB,A16 Bionic,6.7 inches,"4,500mAh"
+iPhone 13 mini 128GB,140g,4GB,A15 Bionic,5.4 inches,"2,438mAh"
+iPhone 13 mini 256GB,140g,4GB,A15 Bionic,5.4 inches,"2,438mAh"
+iPhone 13 mini 512GB,140g,4GB,A15 Bionic,5.4 inches,"2,438mAh"
+iPhone 13 128GB,174g,4GB,A15 Bionic,6.1 inches,"3,240mAh"
+iPhone 13 256GB,174g,4GB,A15 Bionic,6.1 inches,"3,240mAh"
+iPhone 13 512GB,174g,4GB,A15 Bionic,6.1 inches,"3,240mAh"
+iPhone 13 Pro 128GB,204g,6GB,A15 Bionic,6.1 inches,"3,095mAh"
+iPhone 13 Pro 256GB,204g,6GB,A15 Bionic,6.1 inches,"3,095mAh"
+iPhone 13 Pro 512GB,204g,6GB,A15 Bionic,6.1 inches,"3,095mAh"
+iPhone 13 Pro Max 128GB,238g,6GB,A15 Bionic,6.7 inches,"4,352mAh"
+iPhone 13 Pro Max 256GB,238g,6GB,A15 Bionic,6.7 inches,"4,352mAh"
+iPhone 13 Pro Max 512GB,238g,6GB,A15 Bionic,6.7 inches,"4,352mAh"
+iPhone 12 mini 64GB,135g,4GB,A14 Bionic,5.4 inches,"2,227mAh"
+iPhone 12 mini 128GB,135g,4GB,A14 Bionic,5.4 inches,"2,227mAh"
+iPhone 12 mini 256GB,135g,4GB,A14 Bionic,5.4 inches,"2,227mAh"
+iPhone 12 64GB,164g,4GB,A14 Bionic,6.1 inches,"2,815mAh"
+iPhone 12 128GB,164g,4GB,A14 Bionic,6.1 inches,"2,815mAh"
+iPhone 12 256GB,164g,4GB,A14 Bionic,6.1 inches,"2,815mAh"
+iPhone 12 Pro 128GB,189g,6GB,A14 Bionic,6.1 inches,"2,815mAh"
+iPhone 12 Pro 256GB,189g,6GB,A14 Bionic,6.1 inches,"2,815mAh"
+iPhone 12 Pro 512GB,189g,6GB,A14 Bionic,6.1 inches,"2,815mAh"
+iPhone 12 Pro Max 128GB,228g,6GB,A14 Bionic,6.7 inches,"3,687mAh"
+iPhone 12 Pro Max 256GB,228g,6GB,A14 Bionic,6.7 inches,"3,687mAh"
+iPhone 12 Pro Max 512GB,228g,6GB,A14 Bionic,6.7 inches,"3,687mAh"
+iPhone 11 64GB,194g,4GB,A13 Bionic,6.1 inches,"3,110mAh"
+iPhone 11 128GB,194g,4GB,A13 Bionic,6.1 inches,"3,110mAh"
+iPhone 11 256GB,194g,4GB,A13 Bionic,6.1 inches,"3,110mAh"
+iPhone 11 Pro 64GB,188g,4GB,A13 Bionic,5.8 inches,"3,046mAh"
+iPhone 11 Pro 256GB,188g,4GB,A13 Bionic,5.8 inches,"3,046mAh"
+iPhone 11 Pro 512GB,188g,4GB,A13 Bionic,5.8 inches,"3,046mAh"
+iPhone 11 Pro Max 64GB,226g,4GB,A13 Bionic,6.5 inches,"3,969mAh"
+iPhone 11 Pro Max 256GB,226g,4GB,A13 Bionic,6.5 inches,"3,969mAh"
+iPhone 11 Pro Max 512GB,226g,4GB,A13 Bionic,6.5 inches,"3,969mAh"
+iPhone X 64GB,174g,3GB,A11 Bionic,5.8 inches,"2,716mAh"
+iPhone X 256GB,174g,3GB,A11 Bionic,5.8 inches,"2,716mAh"
+iPhone XS 64GB,177g,4GB,A12 Bionic,5.8 inches,"2,658mAh"
+iPhone XS 256GB,177g,4GB,A12 Bionic,5.8 inches,"2,658mAh"
+iPhone XS 512GB,177g,4GB,A12 Bionic,5.8 inches,"2,658mAh"
+iPhone XS Max 64GB,208g,4GB,A12 Bionic,6.5 inches,"3,174mAh"
+iPhone XS Max 256GB,208g,4GB,A12 Bionic,6.5 inches,"3,174mAh"
+iPhone XS Max 512GB,208g,4GB,A12 Bionic,6.5 inches,"3,174mAh"
+iPhone XR 64GB,194g,3GB,A12 Bionic,6.1 inches,"2,942mAh"
+iPhone XR 128GB,194g,3GB,A12 Bionic,6.1 inches,"2,942mAh"
+iPhone XR 256GB,194g,3GB,A12 Bionic,6.1 inches,"2,942mAh"
+iPad Air 10.9-inch 64GB,458g,4GB,A14 Bionic,10.9 inches,"7,608mAh"
+iPad Air 10.9-inch 256GB,458g,4GB,A14 Bionic,10.9 inches,"7,608mAh"
+iPad 10.2-inch 32GB,490g,3GB,A13 Bionic,10.2 inches,"8,612mAh"
+iPad 10.2-inch 128GB,490g,3GB,A13 Bionic,10.2 inches,"8,612mAh"
+iPad Mini 7.9-inch 64GB,300.5g,3GB,A12 Bionic,7.9 inches,"5,124mAh"
+iPad Mini 7.9-inch 256GB,300.5g,3GB,A12 Bionic,7.9 inches,"5,124mAh"
+iPad Pro 11-inch 128GB,468g,4GB,A12Z Bionic,11 inches,"7,812mAh"
+iPad Pro 11-inch 256GB,468g,4GB,A12Z Bionic,11 inches,"7,812mAh"
+iPad Pro 11-inch 512GB,468g,6GB,A12Z Bionic,11 inches,"7,812mAh"
+iPad Pro 12.9-inch 128GB,682g,6GB,A12Z Bionic,12.9 inches,"9,720mAh"
+iPad Pro 12.9-inch 256GB,682g,6GB,A12Z Bionic,12.9 inches,"9,720mAh"
+iPad Pro 12.9-inch 512GB,682g,6GB,A12Z Bionic,12.9 inches,"9,720mAh"
+iPad Pro 13-inch 128GB,708g,6GB,A12Z Bionic,13 inches,"10,307mAh"
+iPad Pro 13-inch 256GB,708g,6GB,A12Z Bionic,13 inches,"10,307mAh"
+iPad Pro 13-inch 512GB,708g,6GB,A12Z Bionic,13 inches,"10,307mAh"
+iPad Pro 13-inch 1TB,708g,6GB,A12Z Bionic,13 inches,"10,307mAh"
+iPad Pro 13-inch 2TB,708g,6GB,A12Z Bionic,13 inches,"10,307mAh"
+Galaxy S24 Ultra 128GB,234g,12GB,Exynos 2400,6.8 inches,5000mAh
+Galaxy S24 Ultra 256GB,234g,12GB,Exynos 2400,6.8 inches,5000mAh
+Galaxy S24+ 128GB,196g,8GB,Exynos 2400,6.6 inches,4800mAh
+Galaxy S24+ 256GB,196g,8GB,Exynos 2400,6.6 inches,4800mAh
+Galaxy S24 128GB,168g,8GB,Exynos 2400,6.1 inches,4000mAh
+Galaxy S24 256GB,168g,8GB,Exynos 2400,6.1 inches,4000mAh
+Galaxy S23 Ultra 128GB,228g,12GB,Snapdragon 8 Gen 2,6.8 inches,5000mAh
+Galaxy S23 Ultra 256GB,228g,12GB,Snapdragon 8 Gen 2,6.8 inches,5000mAh
+Galaxy S23+ 128GB,196g,8GB,Snapdragon 8 Gen 2,6.6 inches,4700mAh
+Galaxy S23+ 256GB,196g,8GB,Snapdragon 8 Gen 2,6.6 inches,4700mAh
+Galaxy S23 128GB,168g,8GB,Snapdragon 8 Gen 2,6.1 inches,3900mAh
+Galaxy S23 256GB,168g,8GB,Snapdragon 8 Gen 2,6.1 inches,3900mAh
+Galaxy S22 Ultra 128GB,228g,12GB,Exynos 2200,6.8 inches,5000mAh
+Galaxy S22 Ultra 256GB,228g,12GB,Exynos 2200,6.8 inches,5000mAh
+Galaxy S22+ 128GB,195g,8GB,Exynos 2200,6.6 inches,4500mAh
+Galaxy S22+ 256GB,195g,8GB,Exynos 2200,6.6 inches,4500mAh
+Galaxy S22 128GB,167g,8GB,Exynos 2200,6.1 inches,3800mAh
+Galaxy S22 256GB,167g,8GB,Exynos 2200,6.1 inches,3800mAh
+Galaxy Z Fold 5 256GB,254g,12GB,Snapdragon 8 Gen 2,7.6 inches,4400mAh
+Galaxy Z Fold 5 512GB,254g,12GB,Snapdragon 8 Gen 2,7.6 inches,4400mAh
+Galaxy Z Flip 5 256GB,187g,8GB,Snapdragon 8 Gen 2,6.7 inches,3700mAh
+Galaxy Z Flip 5 512GB,187g,8GB,Snapdragon 8 Gen 2,6.7 inches,3700mAh
+Galaxy Z Fold 4 256GB,263g,12GB,Snapdragon 8 Gen 1,7.6 inches,4400mAh
+Galaxy Z Fold 4 512GB,263g,12GB,Snapdragon 8 Gen 1,7.6 inches,4400mAh
+Galaxy Z Flip 4 256GB,187g,8GB,Snapdragon 8 Gen 1,6.7 inches,3700mAh
+Galaxy Z Flip 4 512GB,187g,8GB,Snapdragon 8 Gen 1,6.7 inches,3700mAh
+Galaxy A54 128GB,189g,6GB,Exynos 1380,6.4 inches,5000mAh
+Galaxy A54 256GB,189g,6GB,Exynos 1380,6.4 inches,5000mAh
+Galaxy A34 128GB,199g,6GB,MediaTek Dimensity 1080,6.6 inches,5000mAh
+Galaxy A34 256GB,199g,6GB,MediaTek Dimensity 1080,6.6 inches,5000mAh
+Galaxy A24 128GB,195g,6GB,MediaTek Helio G99,6.5 inches,5000mAh
+Galaxy A24 256GB,195g,6GB,MediaTek Helio G99,6.5 inches,5000mAh
+Galaxy A14 128GB,190g,4GB,Exynos 850,6.6 inches,5000mAh
+Galaxy A14 256GB,190g,4GB,Exynos 850,6.6 inches,5000mAh
+Galaxy A04 64GB,188g,4GB,Exynos 850,6.5 inches,5000mAh
+Galaxy A04 128GB,188g,4GB,Exynos 850,6.5 inches,5000mAh
+Galaxy M54 128GB,202g,8GB,Exynos 1380,6.7 inches,6000mAh
+Galaxy M54 256GB,202g,8GB,Exynos 1380,6.7 inches,6000mAh
+Galaxy M34 128GB,199g,6GB,Exynos 1280,6.5 inches,6000mAh
+Galaxy M34 256GB,199g,6GB,Exynos 1280,6.5 inches,6000mAh
+Galaxy M14 128GB,202g,4GB,Exynos 850,6.6 inches,6000mAh
+Galaxy M14 256GB,202g,4GB,Exynos 850,6.6 inches,6000mAh
+Galaxy M04 64GB,188g,4GB,MediaTek Helio P35,6.5 inches,5000mAh
+Galaxy M04 128GB,188g,4GB,MediaTek Helio P35,6.5 inches,5000mAh
+Galaxy F54 128GB,199g,8GB,Exynos 1380,6.7 inches,6000mAh
+Galaxy F54 256GB,199g,8GB,Exynos 1380,6.7 inches,6000mAh
+Galaxy F34 128GB,190g,6GB,Exynos 1280,6.5 inches,6000mAh
+Galaxy F34 256GB,190g,6GB,Exynos 1280,6.5 inches,6000mAh
+Galaxy F14 128GB,198g,4GB,Exynos 850,6.6 inches,6000mAh
+Galaxy F14 256GB,198g,4GB,Exynos 850,6.6 inches,6000mAh
+Galaxy Note 20 Ultra 128GB,208g,12GB,Exynos 990,6.9 inches,4500mAh
+Galaxy Note 20 Ultra 256GB,208g,12GB,Exynos 990,6.9 inches,4500mAh
+Galaxy Note 20 128GB,192g,8GB,Exynos 990,6.7 inches,4300mAh
+Galaxy Note 20 256GB,192g,8GB,Exynos 990,6.7 inches,4300mAh
+Galaxy Note 10+ 256GB,196g,12GB,Exynos 9825,6.8 inches,4300mAh
+Galaxy Note 10+ 512GB,196g,12GB,Exynos 9825,6.8 inches,4300mAh
+Galaxy Note 10 256GB,168g,8GB,Exynos 9825,6.3 inches,3500mAh
+Galaxy Note 10 128GB,168g,8GB,Exynos 9825,6.3 inches,3500mAh
+Galaxy Xcover 6 Pro 128GB,235g,6GB,Exynos 1380,6.6 inches,4050mAh
+Galaxy Xcover 5 64GB,172g,4GB,Exynos 850,5.3 inches,3000mAh
+Galaxy J8 64GB,191g,4GB,Snapdragon 450,6.0 inches,3500mAh
+Galaxy J7 Pro 64GB,181g,3GB,Exynos 7870,5.5 inches,3600mAh
+Galaxy J6+ 64GB,178g,4GB,Snapdragon 425,6.0 inches,3300mAh
+Galaxy J4 16GB,175g,2GB,Exynos 7570,5.5 inches,3000mAh
+Galaxy C9 Pro 64GB,189g,6GB,Snapdragon 653,6.0 inches,4000mAh
+Galaxy C7 Pro 64GB,165g,4GB,Snapdragon 625,5.7 inches,3300mAh
+Galaxy C5 32GB,143g,4GB,Snapdragon 617,5.2 inches,2600mAh
+Galaxy W22 5G 256GB,228g,12GB,Snapdragon 888,7.6 inches,4500mAh
+Galaxy W21 5G 256GB,229g,12GB,Snapdragon 888,7.6 inches,4500mAh
+Galaxy Tab S9 Ultra 256GB,732g,12GB,Snapdragon 8 Gen 2,14.6 inches,11200mAh
+Galaxy Tab S9+ 256GB,586g,12GB,Snapdragon 8 Gen 2,12.4 inches,10090mAh
+Galaxy Tab S9 128GB,498g,8GB,Snapdragon 8 Gen 2,11 inches,8400mAh
+Galaxy Tab S9 FE 128GB,523g,6GB,Exynos 1380,10.9 inches,8000mAh
+Galaxy Tab S8 Ultra 256GB,726g,12GB,Snapdragon 8 Gen 1,14.6 inches,11200mAh
+Galaxy Tab S8+ 256GB,567g,8GB,Snapdragon 8 Gen 1,12.4 inches,10090mAh
+Galaxy Tab S8 128GB,503g,8GB,Snapdragon 8 Gen 1,11 inches,8000mAh
+Galaxy Tab A9+ 128GB,480g,8GB,Snapdragon 695,11 inches,7040mAh
+Galaxy Tab A9 64GB,366g,4GB,MediaTek Helio G99,8.7 inches,5100mAh
+Galaxy Tab A8 64GB,508g,4GB,Unisoc T618,10.5 inches,7040mAh
+Galaxy Tab A7 Lite 32GB,366g,3GB,MediaTek Helio P22T,8.7 inches,5100mAh
+Galaxy Tab Active 5 128GB,433g,6GB,Exynos 1380,8 inches,5050mAh
+Galaxy Tab Active 4 Pro 128GB,674g,6GB,Snapdragon 778G,10.1 inches,7600mAh
+Galaxy Tab Active 3 64GB,426g,4GB,Exynos 9810,8 inches,5050mAh
+Galaxy Tab E 10.1 16GB,490g,1.5GB,Spreadtrum SC8830,10.1 inches,5000mAh
+Galaxy Tab E 8.0 16GB,360g,1.5GB,Qualcomm MSM8916,8 inches,5000mAh
+OnePlus 12 256GB,205g,12GB,Snapdragon 8 Gen 3,6.7 inches,5000mAh
+OnePlus 12R 256GB,203g,12GB,Snapdragon 8 Gen 2,6.7 inches,4500mAh
+OnePlus 11 256GB,205g,12GB,Snapdragon 8 Gen 1,6.7 inches,5000mAh
+OnePlus 11R 256GB,202g,12GB,Snapdragon 8 Gen 1,6.7 inches,5000mAh
+OnePlus Nord 3 256GB,190g,12GB,MediaTek Dimensity 9000,6.74 inches,5000mAh
+OnePlus Nord CE 3 128GB,179g,8GB,Snapdragon 782G,6.72 inches,5000mAh
+OnePlus Nord CE 3 Lite 128GB,195g,8GB,Snapdragon 695,6.72 inches,5000mAh
+OnePlus Nord N30 5G 128GB,192g,8GB,MediaTek Dimensity 6020,6.72 inches,5000mAh
+OnePlus Open 256GB,238g,16GB,Snapdragon 8 Gen 2,7.8 inches,4800mAh
+OnePlus 10 Pro 256GB,200g,12GB,Snapdragon 8 Gen 1,6.7 inches,5000mAh
+OnePlus 10T 256GB,203g,12GB,Snapdragon 8+ Gen 1,6.7 inches,4500mAh
+OnePlus 9 Pro 256GB,192g,12GB,Snapdragon 888,6.7 inches,4500mAh
+OnePlus 9 128GB,183g,8GB,Snapdragon 888,6.55 inches,4500mAh
+OnePlus 11 Pro 256GB,204g,16GB,Snapdragon 8 Gen 2,6.7 inches,5000mAh
+OnePlus Nord 2T 128GB,190g,8GB,MediaTek Dimensity 1300,6.43 inches,4500mAh
+OnePlus Nord 2 128GB,190g,8GB,MediaTek Dimensity 1200-AI,6.43 inches,4500mAh
+OnePlus Nord N200 64GB,189g,4GB,Snapdragon 480,6.49 inches,5000mAh
+OnePlus Nord N100 64GB,185g,4GB,Qualcomm Snapdragon 460,6.52 inches,5000mAh
+OnePlus 8T Cyberpunk 2077 Edition 256GB,188g,12GB,Snapdragon 865,6.55 inches,4500mAh
+OnePlus 9T 128GB,192g,8GB,Snapdragon 888,6.55 inches,4500mAh
+OnePlus 8T 256GB,188g,12GB,Snapdragon 865,6.55 inches,4500mAh
+OnePlus 10T 5G 256GB,203g,12GB,Snapdragon 8+ Gen 1,6.7 inches,4500mAh
+OnePlus 9R 5G 128GB,189g,8GB,Snapdragon 870,6.55 inches,4500mAh
+OnePlus 8 Pro 256GB,199g,12GB,Snapdragon 865,6.78 inches,4510mAh
+OnePlus 8 128GB,180g,8GB,Snapdragon 865,6.55 inches,4300mAh
+OnePlus Nord CE 2 Lite 128GB,195g,6GB,MediaTek Dimensity 900,6.59 inches,5000mAh
+OnePlus Nord CE 2 128GB,173g,8GB,MediaTek Dimensity 1200,6.43 inches,4500mAh
+OnePlus Nord 1 128GB,184g,6GB,Snapdragon 765G,6.44 inches,4115mAh
+OnePlus Nord CE 5G 128GB,170g,6GB,Snapdragon 750G,6.43 inches,4500mAh
+OnePlus Nord 2 5G 128GB,189g,8GB,MediaTek Dimensity 1200-AI,6.43 inches,4500mAh
+OnePlus Nord N100 5G 64GB,185g,4GB,Qualcomm Snapdragon 460,6.52 inches,5000mAh
+OnePlus Nord N10 5G 128GB,190g,6GB,Qualcomm Snapdragon 690,6.49 inches,4300mAh
+OnePlus 8R 128GB,192g,8GB,Snapdragon 865,6.55 inches,4300mAh
+OnePlus 7R 128GB,190g,6GB,Snapdragon 855,6.41 inches,3700mAh
+OnePlus 6T McLaren Edition 256GB,185g,10GB,Snapdragon 845,6.41 inches,3700mAh
+OnePlus 5T Star Wars Edition 128GB,162g,6GB,Snapdragon 835,6.01 inches,3300mAh
+OnePlus 13R 128GB,210g,8GB,Snapdragon 8 Gen 2,6.7 inches,4500mAh
+OnePlus 11T 128GB,202g,12GB,Snapdragon 8 Gen 2,6.7 inches,5000mAh
+OnePlus 10R 128GB,205g,8GB,MediaTek Dimensity 8100,6.7 inches,4500mAh
+OnePlus 7 Pro 5G 256GB,206g,12GB,Snapdragon 855,6.67 inches,4000mAh
+OnePlus 6 Special Edition 128GB,177g,6GB,Snapdragon 845,6.28 inches,3300mAh
+OnePlus 5 Special Edition 128GB,155g,8GB,Snapdragon 835,5.5 inches,3300mAh
+OnePlus Nord X 128GB,190g,8GB,Snapdragon 765G,6.44 inches,4000mAh
+OnePlus 8 Pro McLaren Edition 256GB,199g,12GB,Snapdragon 865,6.78 inches,4510mAh
+OnePlus 8T Cyberpunk Edition 256GB,188g,12GB,Snapdragon 865,6.55 inches,4500mAh
+OnePlus 7T Pro 5G McLaren Edition 256GB,206g,12GB,Snapdragon 855,6.67 inches,4085mAh
+OnePlus 15R 128GB,210g,12GB,Snapdragon 8 Gen 3,6.7 inches,5000mAh
+OnePlus 14+ 128GB,202g,8GB,Snapdragon 8 Gen 2,6.55 inches,4800mAh
+OnePlus 13 Pro 256GB,215g,12GB,Snapdragon 8 Gen 2,6.7 inches,5000mAh
+OnePlus 12T 5G 256GB,200g,12GB,Snapdragon 8 Gen 2,6.7 inches,5000mAh
+OnePlus Pad,550g,8GB,MediaTek Dimensity 9000,11.61 inches,9510mAh
+OnePlus Pad 2,550g,8GB,MediaTek Dimensity 9000,11.61 inches,9510mAh
+OnePlus Pad Pro,610g,12GB,Snapdragon 8 Gen 3,12.4 inches,11000mAh
+X200 128GB,223g,12GB,Dimensity 9400,6.78 inches,6000mAh
+X200 256GB,223g,12GB,Dimensity 9400,6.78 inches,6000mAh
+X200 Pro 256GB,223g,16GB,Dimensity 9400,6.78 inches,6000mAh
+X200 Pro 512GB,223g,16GB,Dimensity 9400,6.78 inches,6000mAh
+X200 Pro Mini 256GB,187g,16GB,Dimensity 9400,6.31 inches,5700mAh
+V40e 128GB,179g,8GB,Snapdragon 778G,6.44 inches,4100mAh
+Y200 GT 128GB,190g,12GB,Dimensity 1200,6.58 inches,5000mAh
+T3 5G 128GB,180g,8GB,Snapdragon 870,6.67 inches,5000mAh
+Y100 5G 128GB,181g,8GB,Dimensity 900,6.38 inches,4500mAh
+S18 Pro 256GB,189g,12GB,Snapdragon 8 Gen 2,6.56 inches,4700mAh
+V30 Pro 128GB,192g,12GB,Dimensity 1100,6.44 inches,4500mAh
+iQOO 12 256GB,210g,16GB,Snapdragon 8 Gen 3,6.78 inches,5000mAh
+Z3 64GB,162g,6GB,Snapdragon 710,6.3 inches,3315mAh
+V9 64GB,150g,4GB,Snapdragon 626,6.3 inches,3260mAh
+X9 Plus 128GB,199g,6GB,Snapdragon 653,5.88 inches,4000mAh
+Y81 32GB,146g,3GB,MediaTek Helio P22,6.22 inches,3260mAh
+X5Max 16GB,146g,2GB,Snapdragon 615,5.5 inches,2300mAh
+V5 Plus 64GB,158g,4GB,Snapdragon 625,5.5 inches,3055mAh
+Y95 64GB,163g,4GB,Snapdragon 439,6.22 inches,4030mAh
+V3 Max 32GB,168g,4GB,Snapdragon 652,5.5 inches,3000mAh
+X3S 16GB,153g,1GB,MediaTek MT6592,5.0 inches,2000mAh
+Y66 32GB,155g,3GB,Snapdragon 430,5.5 inches,3000mAh
+V19 128GB,176g,8GB,Qualcomm Snapdragon 712,6.44 inches,4500mAh
+V19 256GB,176g,8GB,Qualcomm Snapdragon 712,6.44 inches,4500mAh
+V17 Pro 128GB,201g,8GB,Qualcomm Snapdragon 675,6.44 inches,4100mAh
+V17 Pro 256GB,201g,8GB,Qualcomm Snapdragon 675,6.44 inches,4100mAh
+Y12s 64GB,191g,3GB,MediaTek Helio P35,6.51 inches,5000mAh
+Y12s 128GB,191g,4GB,MediaTek Helio P35,6.51 inches,5000mAh
+S1 Pro 128GB,185g,6GB,MediaTek Helio P65,6.38 inches,4500mAh
+S1 Pro 256GB,185g,6GB,MediaTek Helio P65,6.38 inches,4500mAh
+Y11 32GB,190g,3GB,Qualcomm Snapdragon 439,6.35 inches,5000mAh
+Y11 64GB,190g,3GB,Qualcomm Snapdragon 439,6.35 inches,5000mAh
+V15 128GB,190g,6GB,MediaTek Helio P70,6.53 inches,4000mAh
+V15 256GB,190g,6GB,MediaTek Helio P70,6.53 inches,4000mAh
+X27 Pro 128GB,190g,8GB,Qualcomm Snapdragon 710,6.39 inches,4000mAh
+X27 Pro 256GB,190g,8GB,Qualcomm Snapdragon 710,6.39 inches,4000mAh
+Y30 128GB,193g,4GB,MediaTek Helio P35,6.47 inches,5000mAh
+Y30 64GB,193g,3GB,MediaTek Helio P35,6.47 inches,5000mAh
+Z1 Pro 64GB,159g,4GB,Qualcomm Snapdragon 712,6.53 inches,4500mAh
+Z1 Pro 128GB,159g,6GB,Qualcomm Snapdragon 712,6.53 inches,4500mAh
+X21 128GB,156g,6GB,Qualcomm Snapdragon 660,6.28 inches,3200mAh
+X21 64GB,156g,4GB,Qualcomm Snapdragon 660,6.28 inches,3200mAh
+V23e 128GB,172g,8GB,MediaTek Helio G96,6.44 inches,4050mAh
+V23e 256GB,172g,8GB,MediaTek Helio G96,6.44 inches,4050mAh
+Y33s 128GB,182g,8GB,MediaTek Helio G80,6.58 inches,5000mAh
+Y33s 64GB,182g,4GB,MediaTek Helio G80,6.58 inches,5000mAh
+X60 Pro 256GB,190g,12GB,Qualcomm Snapdragon 870,6.56 inches,4200mAh
+X60 Pro 512GB,190g,12GB,Qualcomm Snapdragon 870,6.56 inches,4200mAh
+V20 Pro 128GB,173g,8GB,Qualcomm Snapdragon 765G,6.44 inches,4000mAh
+V20 Pro 256GB,173g,8GB,Qualcomm Snapdragon 765G,6.44 inches,4000mAh
+Y75 5G 128GB,179g,8GB,MediaTek Dimensity 700,6.58 inches,5000mAh
+Y75 5G 256GB,179g,8GB,MediaTek Dimensity 700,6.58 inches,5000mAh
+Y53s 128GB,190g,6GB,MediaTek Helio G80,6.58 inches,5000mAh
+Y53s 64GB,190g,6GB,MediaTek Helio G80,6.58 inches,5000mAh
+V15 Pro 128GB,185g,6GB,Qualcomm Snapdragon 675,6.39 inches,3700mAh
+V15 Pro 256GB,185g,6GB,Qualcomm Snapdragon 675,6.39 inches,3700mAh
+X70 Pro 128GB,185g,8GB,MediaTek Dimensity 1200,6.56 inches,4450mAh
+X70 Pro 256GB,185g,8GB,MediaTek Dimensity 1200,6.56 inches,4450mAh
+T1 5G 128GB,181g,6GB,Qualcomm Snapdragon 695,6.58 inches,5000mAh
+T1 5G 256GB,181g,8GB,Qualcomm Snapdragon 695,6.58 inches,5000mAh
+X30 Pro 128GB,199g,8GB,Qualcomm Snapdragon 855,6.44 inches,4200mAh
+X30 Pro 256GB,199g,8GB,Qualcomm Snapdragon 855,6.44 inches,4200mAh
+V27 128GB,182g,8GB,MediaTek Dimensity 8200,6.78 inches,4600mAh
+V27 256GB,182g,8GB,MediaTek Dimensity 8200,6.78 inches,4600mAh
+V27 Pro 128GB,182g,8GB,MediaTek Dimensity 8200,6.78 inches,4600mAh
+V27 Pro 256GB,182g,8GB,MediaTek Dimensity 8200,6.78 inches,4600mAh
+V25 Pro 128GB,190g,8GB,MediaTek Dimensity 1300,6.56 inches,4830mAh
+V25 Pro 256GB,190g,8GB,MediaTek Dimensity 1300,6.56 inches,4830mAh
+X90 Pro 256GB,221g,12GB,MediaTek Dimensity 9200,6.78 inches,4870mAh
+X90 Pro 512GB,221g,12GB,MediaTek Dimensity 9200,6.78 inches,4870mAh
+Y100 128GB,190g,8GB,MediaTek Dimensity 900,6.44 inches,4500mAh
+Y100 256GB,190g,8GB,MediaTek Dimensity 900,6.44 inches,4500mAh
+T2 Series 128GB,190g,8GB,Qualcomm Snapdragon 695,6.44 inches,4500mAh
+T2 Series 256GB,190g,8GB,Qualcomm Snapdragon 695,6.44 inches,4500mAh
+V23 5G 128GB,179g,8GB,MediaTek Dimensity 920,6.44 inches,4200mAh
+V23 5G 256GB,179g,8GB,MediaTek Dimensity 920,6.44 inches,4200mAh
+X80 256GB,206g,12GB,MediaTek Dimensity 9000,6.78 inches,4700mAh
+X80 512GB,206g,12GB,MediaTek Dimensity 9000,6.78 inches,4700mAh
+Y21 128GB,182g,4GB,MediaTek Helio P35,6.51 inches,5000mAh
+Y21 64GB,182g,4GB,MediaTek Helio P35,6.51 inches,5000mAh
+Pad 128GB,498g,6GB,Snapdragon 870,11 inches,8040mAh
+Pad 2 256GB,535g,8GB,MediaTek Dimensity 1200,11 inches,8040mAh
+Pad Air 128GB,510g,6GB,Snapdragon 870,10.4 inches,8040mAh
+Pad 3 128GB,500g,6GB,Snapdragon 750G,11 inches,8040mAh
+Pad 3 Pro 256GB,550g,8GB,Snapdragon 888,12.3 inches,8040mAh
+Pad 4 Pro 256GB,560g,8GB,MediaTek Dimensity 9000,12.9 inches,8040mAh
+Pad 128GB,520g,6GB,Snapdragon 870,11 inches,8040mAh
+Pad 2 256GB,540g,8GB,Snapdragon 888,12.3 inches,8040mAh
+Pad 2 Pro 256GB,555g,8GB,Snapdragon 8 Gen 1,12.3 inches,8040mAh
+Find N3 512GB,239g,12GB,Snapdragon 8 Gen 2,7.82 inches,4805mAh
+Find N3 Flip 256GB,198g,12GB,MediaTek Dimensity 9200,6.8 inches,4300mAh
+Find X8 Pro 256GB,210g,12GB,Snapdragon 8 Gen 2,6.8 inches,5000mAh
+Find X8 256GB,195g,8GB,Snapdragon 8 Gen 2,6.7 inches,4800mAh
+Reno13 F 4G 256GB,192g,8GB,MediaTek Helio G100,6.67 inches,5800mAh
+Reno13 F 256GB,192g,8GB,MediaTek Helio G100,6.67 inches,5800mAh
+Reno13 Pro 512GB,210g,12GB,MediaTek Dimensity 8350,6.83 inches,5800mAh
+Reno13 256GB,200g,12GB,MediaTek Dimensity 8350,6.59 inches,5600mAh
+Reno12 F 4G 256GB,187g,8GB,Snapdragon 685,6.7 inches,5000mAh
+Reno12 F 256GB,187g,8GB,Snapdragon 685,6.7 inches,5000mAh
+Reno12 Pro 512GB,190g,12GB,MediaTek Dimensity 8200,6.74 inches,4600mAh
+Reno12 256GB,185g,8GB,MediaTek Dimensity 7050,6.7 inches,5000mAh
+Reno11 F 256GB,185g,8GB,MediaTek Dimensity 7050,6.7 inches,5000mAh
+Reno11 Pro 512GB,190g,12GB,MediaTek Dimensity 8200,6.74 inches,4600mAh
+A5 Pro 256GB,180g,8GB,Dimensity 7300,6.7 inches,6000mAh
+A5 Pro 512GB,186g,12GB,Dimensity 7300,6.7 inches,6000mAh
+A80 256GB,186g,8GB,Dimensity 6300,6.67 inches,5100mAh
+A3 4G 128GB,186g,4GB,Snapdragon 6s 4G Gen 1,6.7 inches,5000mAh
+A3x 4G 128GB,186g,4GB,Snapdragon 6s 4G Gen 1,6.67 inches,5100mAh
+A3x 4G 256GB,186g,6GB,Snapdragon 6s 4G Gen 1,6.67 inches,5100mAh
+A3 128GB,186g,4GB,Snapdragon 6s 4G Gen 1,6.7 inches,5000mAh
+A3x 128GB,186g,4GB,Snapdragon 6s 4G Gen 1,6.67 inches,5100mAh
+A3x 256GB,186g,6GB,Snapdragon 6s 4G Gen 1,6.67 inches,5100mAh
+A3 128GB,186g,4GB,Snapdragon 6s 4G Gen 1,6.7 inches,5000mAh
+A60 128GB,186g,8GB,Snapdragon 680 4G,6.67 inches,5000mAh
+A60 256GB,186g,8GB,Snapdragon 680 4G,6.67 inches,5000mAh
+K12 Plus 256GB,192g,8GB,Snapdragon 7 Gen 3,6.7 inches,6400mAh
+K12 Plus 512GB,192g,12GB,Snapdragon 7 Gen 3,6.7 inches,6400mAh
+F27 128GB,175g,8GB,Dimensity 7050,6.7 inches,5000mAh
+F27 256GB,175g,8GB,Dimensity 7050,6.7 inches,5000mAh
+F27 Pro+ 256GB,177g,8GB,Dimensity 7050,6.7 inches,5000mAh
+F27 Pro+ 512GB,177g,12GB,Dimensity 7050,6.7 inches,5000mAh
+F25 Pro 128GB,173g,8GB,Snapdragon 778G,6.55 inches,4500mAh
+F25 Pro 256GB,173g,8GB,Snapdragon 778G,6.55 inches,4500mAh
+Pad 3 128GB,533g,8GB,Dimensity 8350,11.6 inches,9510mAh
+Pad 3 256GB,533g,12GB,Dimensity 8350,11.6 inches,9510mAh
+Pad 3 Pro 256GB,586g,12GB,Snapdragon 8 Gen 3,12.1 inches,9510mAh
+Pad 3 Pro 512GB,586g,16GB,Snapdragon 8 Gen 3,12.1 inches,9510mAh
+Pad Neo 128GB,520g,6GB,Snapdragon 870,11 inches,8360mAh
+Pad Neo 256GB,520g,8GB,Snapdragon 870,11 inches,8360mAh
+Find X7 Ultra 256GB,221g,12GB,Snapdragon 8 Gen 3,6.82 inches,5000mAh
+Find X7 Ultra 512GB,221g,16GB,Snapdragon 8 Gen 3,6.82 inches,5000mAh
+Find X7 256GB,206g,12GB,Dimensity 9300,6.78 inches,5000mAh
+Find X7 512GB,206g,16GB,Dimensity 9300,6.78 inches,5000mAh
+Find X6 Pro 256GB,218g,12GB,Snapdragon 8 Gen 2,6.82 inches,5000mAh
+Find X6 Pro 512GB,218g,16GB,Snapdragon 8 Gen 2,6.82 inches,5000mAh
+Find X6 256GB,207g,12GB,Dimensity 9200,6.74 inches,4800mAh
+Find X6 512GB,207g,16GB,Dimensity 9200,6.74 inches,4800mAh
+Find X5 Pro 256GB,218g,12GB,Snapdragon 8 Gen 1,6.7 inches,5000mAh
+Find X5 Pro 512GB,218g,16GB,Snapdragon 8 Gen 1,6.7 inches,5000mAh
+Find X5 256GB,196g,8GB,Snapdragon 888,6.55 inches,4800mAh
+Find N2 Flip 256GB,191g,8GB,Dimensity 9000+,6.8 inches,4300mAh
+Find N2 Flip 512GB,191g,12GB,Dimensity 9000+,6.8 inches,4300mAh
+Find N2 256GB,233g,12GB,Snapdragon 8+ Gen 1,7.1 inches,4520mAh
+Reno10 5G 128GB,180g,8GB,Dimensity 7050,6.7 inches,"5,000mAh"
+Reno10 5G 256GB,180g,8GB,Dimensity 7050,6.7 inches,"5,000mAh"
+Reno10 Pro 5G 256GB,186g,12GB,Snapdragon 778G,6.7 inches,"4,600mAh"
+Reno10 Pro+ 5G 256GB,194g,16GB,Snapdragon 8+ Gen 1,6.74 inches,"4,700mAh"
+Reno9 5G 128GB,174g,8GB,Snapdragon 778G,6.7 inches,"4,500mAh"
+Reno9 5G 256GB,174g,12GB,Snapdragon 778G,6.7 inches,"4,500mAh"
+Reno9 Pro 5G 256GB,184g,16GB,Dimensity 8100,6.7 inches,"4,500mAh"
+Reno9 Pro+ 5G 256GB,192g,16GB,Snapdragon 8+ Gen 1,6.7 inches,"4,700mAh"
+Reno8 5G 128GB,179g,8GB,Dimensity 1300,6.4 inches,"4,500mAh"
+Reno8 5G 256GB,179g,12GB,Dimensity 1300,6.4 inches,"4,500mAh"
+Reno8 Pro 5G 256GB,183g,12GB,Dimensity 8100,6.7 inches,"4,500mAh"
+Reno8 Pro+ 5G 256GB,195g,12GB,Dimensity 8100,6.7 inches,"4,500mAh"
+Reno7 5G 128GB,173g,8GB,Dimensity 900,6.4 inches,"4,500mAh"
+Reno7 5G 256GB,173g,12GB,Dimensity 900,6.4 inches,"4,500mAh"
+Reno7 Pro 5G 256GB,180g,12GB,Dimensity 1200,6.55 inches,"4,500mAh"
+Reno6 5G 128GB,182g,8GB,Dimensity 900,6.43 inches,"4,300mAh"
+Reno6 5G 256GB,182g,12GB,Dimensity 900,6.43 inches,"4,300mAh"
+Reno6 Pro 5G 128GB,177g,8GB,Dimensity 1200,6.55 inches,"4,500mAh"
+Reno6 Pro 5G 256GB,177g,12GB,Dimensity 1200,6.55 inches,"4,500mAh"
+Reno6 Pro+ 5G 256GB,188g,12GB,Snapdragon 870,6.55 inches,"4,500mAh"
+Reno5 5G 128GB,180g,8GB,Snapdragon 765G,6.43 inches,"4,300mAh"
+Reno5 5G 256GB,180g,12GB,Snapdragon 765G,6.43 inches,"4,300mAh"
+Reno5 Pro 5G 128GB,173g,8GB,Dimensity 1000+,6.55 inches,"4,350mAh"
+Reno5 Pro 5G 256GB,173g,12GB,Dimensity 1000+,6.55 inches,"4,350mAh"
+Reno5 Pro+ 5G 256GB,184g,12GB,Snapdragon 865,6.55 inches,"4,500mAh"
+Reno4 5G 128GB,183g,8GB,Snapdragon 765G,6.43 inches,"4,000mAh"
+Reno4 5G 256GB,183g,8GB,Snapdragon 765G,6.43 inches,"4,000mAh"
+Reno4 Pro 5G 256GB,172g,12GB,Snapdragon 765G,6.55 inches,"4,000mAh"
+Reno3 5G 128GB,181g,8GB,Dimensity 1000L,6.4 inches,"4,025mAh"
+Reno3 5G 256GB,181g,12GB,Dimensity 1000L,6.4 inches,"4,025mAh"
+Reno3 Pro 5G 256GB,171g,12GB,Snapdragon 765G,6.5 inches,"4,025mAh"
+A59 5G 128GB,186g,6GB,MediaTek Dimensity 6020,6.56 inches,"5,000mAh"
+A59 5G 256GB,186g,8GB,MediaTek Dimensity 6020,6.56 inches,"5,000mAh"
+A58 5G 256GB,188g,8GB,MediaTek Dimensity 700,6.56 inches,"5,000mAh"
+A57 5G 128GB,186g,6GB,MediaTek Dimensity 810,6.56 inches,"5,000mAh"
+A56 5G 128GB,189g,6GB,MediaTek Dimensity 700,6.5 inches,"5,000mAh"
+A55 5G 128GB,186g,6GB,MediaTek Dimensity 700,6.5 inches,"5,000mAh"
+A54 5G 128GB,190g,6GB,Qualcomm Snapdragon 480,6.5 inches,"5,000mAh"
+A53 5G 128GB,175g,4GB,MediaTek Dimensity 720,6.5 inches,"4,040mAh"
+A52 5G 128GB,184g,4GB,MediaTek Dimensity 720,6.5 inches,"4,000mAh"
+A51 5G 128GB,186g,4GB,MediaTek Dimensity 700,6.5 inches,"4,000mAh"
+A50 5G 128GB,185g,4GB,MediaTek Dimensity 700,6.5 inches,"4,000mAh"
+A49 5G 128GB,185g,4GB,MediaTek Dimensity 700,6.5 inches,"4,000mAh"
+A40 128GB,186g,4GB,Qualcomm Snapdragon 6s Gen 1,6.67 inches,"5,100mAh"
+A40 256GB,186g,6GB,Qualcomm Snapdragon 6s Gen 1,6.67 inches,"5,100mAh"
+K11x 128GB,195g,8GB,Qualcomm Snapdragon 695,6.72 inches,"5,000mAh"
+K11x 256GB,195g,12GB,Qualcomm Snapdragon 695,6.72 inches,"5,000mAh"
+K10x 128GB,195g,6GB,Qualcomm Snapdragon 695,6.59 inches,"5,000mAh"
+K10x 256GB,195g,8GB,Qualcomm Snapdragon 695,6.59 inches,"5,000mAh"
+K10 5G 128GB,205g,8GB,MediaTek Dimensity 8000-Max,6.59 inches,"5,000mAh"
+K9x 128GB,194g,6GB,MediaTek Dimensity 810,6.5 inches,"5,000mAh"
+K9x 256GB,194g,8GB,MediaTek Dimensity 810,6.5 inches,"5,000mAh"
+K9 Pro 5G 128GB,180g,8GB,MediaTek Dimensity 1200,6.43 inches,"4,500mAh"
+K9 Pro 5G 256GB,180g,12GB,MediaTek Dimensity 1200,6.43 inches,"4,500mAh"
+K9 5G 128GB,172g,8GB,Qualcomm Snapdragon 768G,6.43 inches,"4,300mAh"
+K9 5G 256GB,172g,8GB,Qualcomm Snapdragon 768G,6.43 inches,"4,300mAh"
+K7x 128GB,194g,6GB,MediaTek Dimensity 720,6.5 inches,"5,000mAh"
+K7 5G 128GB,180g,8GB,Qualcomm Snapdragon 765G,6.4 inches,"4,025mAh"
+K7 5G 256GB,180g,8GB,Qualcomm Snapdragon 765G,6.4 inches,"4,025mAh"
+K11x 128GB,195g,8GB,Qualcomm Snapdragon 695,6.72 inches,"5,000mAh"
+K11x 256GB,195g,12GB,Qualcomm Snapdragon 695,6.72 inches,"5,000mAh"
+K11 128GB,184g,8GB,Qualcomm Snapdragon 782G,6.7 inches,"5,000mAh"
+K11 256GB,184g,12GB,Qualcomm Snapdragon 782G,6.7 inches,"5,000mAh"
+K10x 128GB,195g,6GB,Qualcomm Snapdragon 695,6.59 inches,"5,000mAh"
+K10x 256GB,195g,8GB,Qualcomm Snapdragon 695,6.59 inches,"5,000mAh"
+K10 5G 128GB,205g,8GB,MediaTek Dimensity 8000-Max,6.59 inches,"5,000mAh"
+K10 5G 256GB,205g,12GB,MediaTek Dimensity 8000-Max,6.59 inches,"5,000mAh"
+K9x 128GB,194g,6GB,MediaTek Dimensity 810,6.5 inches,"5,000mAh"
+K9x 256GB,194g,8GB,MediaTek Dimensity 810,6.5 inches,"5,000mAh"
+K9 Pro 5G 128GB,180g,8GB,MediaTek Dimensity 1200,6.43 inches,"4,500mAh"
+K9 Pro 5G 256GB,180g,12GB,MediaTek Dimensity 1200,6.43 inches,"4,500mAh"
+K9 5G 128GB,172g,8GB,Qualcomm Snapdragon 768G,6.43 inches,"4,300mAh"
+K9 5G 256GB,172g,8GB,Qualcomm Snapdragon 768G,6.43 inches,"4,300mAh"
+K7x 128GB,194g,6GB,MediaTek Dimensity 720,6.5 inches,"5,000mAh"
+K7 5G 128GB,180g,8GB,Qualcomm Snapdragon 765G,6.4 inches,"4,025mAh"
+GT 7 Pro 128GB,222.8g,12GB,Qualcomm Snapdragon 8 Elite,6.78 inches,"6,500mAh"
+GT 7 Pro 256GB,222.8g,16GB,Qualcomm Snapdragon 8 Elite,6.78 inches,"6,500mAh"
+GT 6 128GB,191g,8GB,Qualcomm Snapdragon 8s Gen 3,6.78 inches,"5,500mAh"
+GT 6 256GB,191g,12GB,Qualcomm Snapdragon 8s Gen 3,6.78 inches,"5,500mAh"
+GT 6 512GB,191g,16GB,Qualcomm Snapdragon 8s Gen 3,6.78 inches,"5,500mAh"
+GT 6T 128GB,191g,8GB,Qualcomm Snapdragon 7 Plus Gen 3,6.78 inches,"5,500mAh"
+GT 6T 256GB,191g,8GB,Qualcomm Snapdragon 7 Plus Gen 3,6.78 inches,"5,500mAh"
+14 Pro+ 5G 256GB,184g,12GB,Qualcomm Snapdragon 7s Gen 3,6.83 inches,"6,000mAh"
+14 Pro+ 5G 512GB,184g,12GB,Qualcomm Snapdragon 7s Gen 3,6.83 inches,"6,000mAh"
+14 Pro 5G 128GB,184g,8GB,MediaTek Dimensity 7300 Energy,6.7 inches,"5,800mAh"
+14 Pro 5G 256GB,184g,8GB,MediaTek Dimensity 7300 Energy,6.7 inches,"5,800mAh"
+14x 5G 128GB,190g,6GB,Qualcomm Snapdragon 7s Gen 2,6.6 inches,"5,500mAh"
+14x 5G 256GB,190g,8GB,Qualcomm Snapdragon 7s Gen 2,6.6 inches,"5,500mAh"
+13+ 5G 128GB,185g,8GB,MediaTek Dimensity 7200,6.5 inches,"5,000mAh"
+13+ 5G 256GB,185g,8GB,MediaTek Dimensity 7200,6.5 inches,"5,000mAh"
+13 5G 128GB,190g,6GB,MediaTek Dimensity 6100+,6.6 inches,"5,000mAh"
+13 5G 256GB,190g,8GB,MediaTek Dimensity 6100+,6.6 inches,"5,000mAh"
+13 Pro 5G 128GB,192g,8GB,Qualcomm Snapdragon 7s Gen 2,6.7 inches,"5,200mAh"
+13 Pro 5G 256GB,192g,12GB,Qualcomm Snapdragon 7s Gen 2,6.7 inches,"5,200mAh"
+13 Pro+ 5G 256GB,195g,12GB,Qualcomm Snapdragon 7+ Gen 2,6.78 inches,"5,500mAh"
+13 Pro+ 5G 512GB,195g,16GB,Qualcomm Snapdragon 7+ Gen 2,6.78 inches,"5,500mAh"
+P1 Speed 5G 128GB,185g,8GB,MediaTek Dimensity 8100,6.7 inches,"5,100mAh"
+P1 Speed 5G 256GB,185g,12GB,MediaTek Dimensity 8100,6.7 inches,"5,100mAh"
+P2 Pro 5G 256GB,188g,12GB,Qualcomm Snapdragon 7+ Gen 3,6.78 inches,"5,500mAh"
+P2 Pro 5G 512GB,188g,16GB,Qualcomm Snapdragon 7+ Gen 3,6.78 inches,"5,500mAh"
+P1 5G 128GB,184g,6GB,MediaTek Dimensity 6100+,6.6 inches,"5,000mAh"
+P1 5G 256GB,184g,8GB,MediaTek Dimensity 6100+,6.6 inches,"5,000mAh"
+P1 Pro 5G 128GB,190g,8GB,Qualcomm Snapdragon 7s Gen 1,6.7 inches,"5,200mAh"
+P1 Pro 5G 256GB,190g,12GB,Qualcomm Snapdragon 7s Gen 1,6.7 inches,"5,200mAh"
+Narzo 70 Turbo 5G 128GB,200g,8GB,MediaTek Dimensity 810,6.6 inches,"5,000mAh"
+Narzo 70 Turbo 5G 256GB,200g,8GB,MediaTek Dimensity 810,6.6 inches,"5,000mAh"
+Narzo N61 128GB,195g,6GB,MediaTek Helio G99,6.5 inches,"5,000mAh"
+Narzo N63 128GB,193g,6GB,MediaTek Helio G88,6.5 inches,"5,000mAh"
+Narzo N65 5G 128GB,198g,8GB,MediaTek Dimensity 700,6.6 inches,"5,000mAh"
+Narzo 70 5G 128GB,198g,8GB,MediaTek Dimensity 810,6.6 inches,"5,200mAh"
+C75 128GB,190g,6GB,MediaTek Helio G85,6.6 inches,"5,000mAh"
+C75 256GB,190g,8GB,MediaTek Helio G85,6.6 inches,"5,000mAh"
+C61 128GB,189g,4GB,Unisoc T612,6.5 inches,"5,000mAh"
+C67 128GB,195g,6GB,MediaTek Helio G88,6.6 inches,"5,000mAh"
+C67 256GB,195g,8GB,MediaTek Helio G88,6.6 inches,"5,000mAh"
+C65 128GB,192g,6GB,Qualcomm Snapdragon 680,6.6 inches,"5,000mAh"
+C65 256GB,192g,8GB,Qualcomm Snapdragon 680,6.6 inches,"5,000mAh"
+C63 128GB,191g,6GB,MediaTek Helio G85,6.6 inches,"5,000mAh"
+C55 128GB,189g,6GB,MediaTek Helio G88,6.72 inches,"5,000mAh"
+C55 256GB,189g,8GB,MediaTek Helio G88,6.72 inches,"5,000mAh"
+Note 60x 128GB,198g,6GB,MediaTek Dimensity 6100+,6.6 inches,"5,200mAh"
+Note 60 128GB,196g,6GB,MediaTek Dimensity 810,6.6 inches,"5,200mAh"
+Note 60 256GB,196g,8GB,MediaTek Dimensity 810,6.6 inches,"5,200mAh"
+Note 50 128GB,195g,6GB,MediaTek Helio G99,6.5 inches,"5,000mAh"
+GT 7 128GB,199g,8GB,Qualcomm Snapdragon 8 Gen 2,6.8 inches,"5,200mAh"
+GT 7 256GB,199g,12GB,Qualcomm Snapdragon 8 Gen 2,6.8 inches,"5,200mAh"
+Neo 7 128GB,193g,8GB,MediaTek Dimensity 8200,6.7 inches,"5,000mAh"
+Neo 7 256GB,193g,12GB,MediaTek Dimensity 8200,6.7 inches,"5,000mAh"
+P2 Pro 5G 128GB,195g,8GB,MediaTek Dimensity 9200,6.7 inches,"5,100mAh"
+P2 Pro 5G 256GB,195g,12GB,MediaTek Dimensity 9200,6.7 inches,"5,100mAh"
+Pad 64GB,440g,4GB,MediaTek Helio G80,10.4 inches,"7,100mAh"
+Pad 128GB,440g,6GB,MediaTek Helio G80,10.4 inches,"7,100mAh"
+Pad 2 128GB,482g,6GB,MediaTek Helio G99,11.5 inches,"8,360mAh"
+Pad 2 256GB,482g,8GB,MediaTek Helio G99,11.5 inches,"8,360mAh"
+Pad 2 Lite 64GB,466g,4GB,MediaTek Helio G85,10.4 inches,"7,100mAh"
+Pad 2 Lite 128GB,466g,6GB,MediaTek Helio G85,10.4 inches,"7,100mAh"
+Pad X 64GB,499g,4GB,Qualcomm Snapdragon 695,11 inches,"8,340mAh"
+Pad X 128GB,499g,6GB,Qualcomm Snapdragon 695,11 inches,"8,340mAh"
+Pad Mini 32GB,372g,3GB,Unisoc T616,8.7 inches,"6,400mAh"
+Pad Mini 64GB,372g,4GB,Unisoc T616,8.7 inches,"6,400mAh"
+Pad Slim 64GB,440g,4GB,MediaTek Helio G80,10.4 inches,"7,100mAh"
+Pad Slim 128GB,440g,6GB,MediaTek Helio G80,10.4 inches,"7,100mAh"
+TechLife Pad Neo 64GB,465g,4GB,MediaTek Helio G85,10.5 inches,"7,200mAh"
+TechLife Pad Neo 128GB,465g,6GB,MediaTek Helio G85,10.5 inches,"7,200mAh"
+Xiaomi 15 Pro 256GB,210g,12GB,Snapdragon 8 Elite,6.73 inches,"6,100mAh"
+Xiaomi 15 Pro 512GB,210g,16GB,Snapdragon 8 Elite,6.73 inches,"6,100mAh"
+Xiaomi 15 Pro 1TB,210g,16GB,Snapdragon 8 Elite,6.73 inches,"6,100mAh"
+Xiaomi 15 256GB,190g,12GB,Snapdragon 8 Elite,6.36 inches,"5,400mAh"
+Xiaomi 15 512GB,190g,16GB,Snapdragon 8 Elite,6.36 inches,"5,400mAh"
+Xiaomi 14T Pro 256GB,209g,12GB,Dimensity 9300+,6.67 inches,"5,000mAh"
+Xiaomi 14T Pro 512GB,209g,12GB,Dimensity 9300+,6.67 inches,"5,000mAh"
+Xiaomi 14T Pro 1TB,209g,12GB,Dimensity 9300+,6.67 inches,"5,000mAh"
+Xiaomi 14T 256GB,195g,12GB,Dimensity 8300-Ultra,6.67 inches,"5,000mAh"
+Xiaomi 14T 512GB,195g,12GB,Dimensity 8300-Ultra,6.67 inches,"5,000mAh"
+Xiaomi 14 Pro 256GB,206g,12GB,Snapdragon 8 Gen 3,6.73 inches,"5,000mAh"
+Xiaomi 14 Pro 512GB,206g,12GB,Snapdragon 8 Gen 3,6.73 inches,"5,000mAh"
+Xiaomi 14 256GB,189g,12GB,Snapdragon 8 Gen 3,6.36 inches,"4,610mAh"
+Xiaomi 14 512GB,189g,12GB,Snapdragon 8 Gen 3,6.36 inches,"4,610mAh"
+Redmi Note 14 Pro+ 5G 128GB,205g,8GB,Snapdragon 7s Gen 3,6.67 inches,"5,110mAh"
+Redmi Note 14 Pro+ 5G 256GB,205g,12GB,Snapdragon 7s Gen 3,6.67 inches,"5,110mAh"
+Redmi Note 14 Pro+ 5G 512GB,205g,16GB,Snapdragon 7s Gen 3,6.67 inches,"5,110mAh"
+Redmi Note 14 Pro 5G 128GB,195g,8GB,MediaTek Dimensity 7300-Ultra,6.67 inches,"5,500mAh"
+Redmi Note 14 Pro 5G 256GB,195g,12GB,MediaTek Dimensity 7300-Ultra,6.67 inches,"5,500mAh"
+Redmi Note 14 Pro 4G 128GB,190g,6GB,Qualcomm Snapdragon 732G,6.67 inches,"5,000mAh"
+Redmi Note 14 Pro 4G 256GB,190g,8GB,Qualcomm Snapdragon 732G,6.67 inches,"5,000mAh"
+Redmi Note 14 5G 128GB,185g,6GB,MediaTek Dimensity 7025-Ultra,6.67 inches,"5,000mAh"
+Redmi Note 14 5G 256GB,185g,8GB,MediaTek Dimensity 7025-Ultra,6.67 inches,"5,000mAh"
+Redmi Note 14 4G 128GB,180g,4GB,Qualcomm Snapdragon 680,6.67 inches,"5,000mAh"
+Redmi Note 14 4G 256GB,180g,6GB,Qualcomm Snapdragon 680,6.67 inches,"5,000mAh"
+Redmi 14C 5G 64GB,195g,4GB,MediaTek Dimensity 700,6.5 inches,"5,000mAh"
+Redmi 14C 5G 128GB,195g,6GB,MediaTek Dimensity 700,6.5 inches,"5,000mAh"
+Legion Y70 128GB,209g,8GB,Snapdragon 8+ Gen 1,6.67 inches,"5,100mAh"
+Legion Y70 256GB,209g,12GB,Snapdragon 8+ Gen 1,6.67 inches,"5,100mAh"
+Legion Y70 512GB,209g,16GB,Snapdragon 8+ Gen 1,6.67 inches,"5,100mAh"
+K14 Plus 64GB,198g,4GB,Unisoc T700,6.5 inches,"5,000mAh"
+K14 Plus 128GB,198g,6GB,Unisoc T700,6.5 inches,"5,000mAh"
+K13 Pro 128GB,200g,6GB,Snapdragon 662,6.8 inches,"5,000mAh"
+K13 32GB,190g,2GB,Unisoc SC9863A,6.52 inches,"5,000mAh"
+K13 Note 64GB,200g,4GB,Snapdragon 460,6.5 inches,"5,000mAh"
+K10 Plus 64GB,172g,4GB,Snapdragon 632,6.22 inches,"4,050mAh"
+A6 Note 32GB,172g,3GB,Helio P22,6.09 inches,"4,000mAh"
+K10 Note 64GB,164g,4GB,Snapdragon 710,6.3 inches,"4,050mAh"
+K10 Note 128GB,164g,6GB,Snapdragon 710,6.3 inches,"4,050mAh"
+Z6 Pro 128GB,185g,6GB,Snapdragon 855,6.39 inches,"4,000mAh"
+Z6 Pro 256GB,185g,8GB,Snapdragon 855,6.39 inches,"4,000mAh"
+Z5 Pro 64GB,210g,6GB,Snapdragon 710,6.39 inches,"3,350mAh"
+Edge 50 Fusion 128GB,168g,8GB,Snapdragon 7 Gen 1,6.7 inches,"5,000mAh"
+Edge 50 Fusion 256GB,168g,12GB,Snapdragon 7 Gen 1,6.7 inches,"5,000mAh"
+Edge 50 Pro 128GB,186g,8GB,Snapdragon 7 Gen 3,6.7 inches,"4,500mAh"
+Edge 50 Pro 256GB,186g,12GB,Snapdragon 7 Gen 3,6.7 inches,"4,500mAh"
+Razr 128GB,192g,8GB,Snapdragon 8+ Gen 1,"6.7 inches (main), 2.7 inches (external)","3,500mAh"
+Razr 256GB,192g,12GB,Snapdragon 8+ Gen 1,"6.7 inches (main), 2.7 inches (external)","3,500mAh"
+G84 5G 128GB,166g,8GB,Snapdragon 695,6.5 inches,"5,000mAh"
+G84 5G 256GB,166g,12GB,Snapdragon 695,6.5 inches,"5,000mAh"
+Moto G Stylus 64GB,195g,4GB,MediaTek Helio G88,6.8 inches,"5,000mAh"
+Moto G Stylus 128GB,195g,6GB,MediaTek Helio G88,6.8 inches,"5,000mAh"
+One Vision 3 128GB,180g,6GB,Exynos 9609,6.3 inches,"3,500mAh"
+One Vision 3 256GB,180g,8GB,Exynos 9609,6.3 inches,"3,500mAh"
+Edge 50 Lite 128GB,170g,6GB,Snapdragon 695,6.7 inches,"5,000mAh"
+Edge 50 Lite 256GB,170g,8GB,Snapdragon 695,6.7 inches,"5,000mAh"
+Moto E40 Plus 64GB,198g,4GB,Unisoc T700,6.5 inches,"5,000mAh"
+Moto E40 Plus 128GB,198g,6GB,Unisoc T700,6.5 inches,"5,000mAh"
+Moto G Power 64GB,206g,4GB,Snapdragon 662,6.6 inches,"5,000mAh"
+Moto G Power 128GB,206g,6GB,Snapdragon 662,6.6 inches,"5,000mAh"
+Moto G Play 32GB,203g,3GB,MediaTek Helio G25,6.5 inches,"5,000mAh"
+Moto G Play 64GB,203g,4GB,MediaTek Helio G25,6.5 inches,"5,000mAh"
+Moto G75 5G 128GB,205g,8GB,Snapdragon 6 Gen 3,6.78 inches,"5,000mAh"
+Moto G75 5G 256GB,205g,8GB,Snapdragon 6 Gen 3,6.78 inches,"5,000mAh"
+Moto S50 128GB,190g,8GB,MediaTek Dimensity 8100,6.7 inches,"4,500mAh"
+Moto S50 256GB,190g,12GB,MediaTek Dimensity 8100,6.7 inches,"4,500mAh"
+Edge 50 Neo 256GB,171g,8GB,MediaTek Dimensity 7300,6.4 inches,"4,310mAh"
+Edge 50 Neo 512GB,171g,12GB,MediaTek Dimensity 7300,6.4 inches,"4,310mAh"
+Moto G55 128GB,182g,8GB,MediaTek Dimensity 7025,6.49 inches,"5,000mAh"
+Moto G55 256GB,182g,8GB,MediaTek Dimensity 7025,6.49 inches,"5,000mAh"
+Moto G35 128GB,188g,4GB,Unisoc T760,6.72 inches,"5,000mAh"
+Moto G35 256GB,188g,8GB,Unisoc T760,6.72 inches,"5,000mAh"
+Moto G45 128GB,183g,6GB,Snapdragon 6s Gen 3,6.5 inches,"5,000mAh"
+Moto G45 256GB,183g,8GB,Snapdragon 6s Gen 3,6.5 inches,"5,000mAh"
+Edge 50 256GB,180g,8GB,Snapdragon 7s Gen 2,6.7 inches,"4,700mAh"
+Edge 50 512GB,180g,12GB,Snapdragon 7s Gen 2,6.7 inches,"4,700mAh"
+Razr 50 Ultra 512GB,189g,12GB,Snapdragon 8+ Gen 1,"6.9 inches (internal), 4.0 inches (external)","4,000mAh"
+Razr 50 256GB,188g,8GB,Snapdragon 7 Gen 1,"6.7 inches (internal), 3.6 inches (external)","3,800mAh"
+Moto G85 128GB,173g,8GB,Snapdragon 6s Gen 3,6.67 inches,"5,000mAh"
+Moto G85 256GB,173g,12GB,Snapdragon 6s Gen 3,6.67 inches,"5,000mAh"
+S50 Neo 256GB,170g,8GB,MediaTek Dimensity 7200,6.5 inches,"4,300mAh"
+S50 Neo 512GB,170g,12GB,MediaTek Dimensity 7200,6.5 inches,"4,300mAh"
+Moto E14 64GB,180g,4GB,Unisoc T606,6.5 inches,"5,000mAh"
+Moto E14 128GB,180g,4GB,Unisoc T606,6.5 inches,"5,000mAh"
+Edge 256GB,174g,8GB,Snapdragon 7s Gen 2,6.7 inches,"4,700mAh"
+Edge 512GB,174g,12GB,Snapdragon 7s Gen 2,6.7 inches,"4,700mAh"
+Moto X50 Ultra 512GB,198g,12GB,Snapdragon 8 Gen 3,6.9 inches,"5,000mAh"
+Moto G Stylus 5G 256GB,195g,6GB,Snapdragon 6 Gen 1,6.8 inches,"5,000mAh"
+Moto G Stylus 5G 512GB,195g,8GB,Snapdragon 6 Gen 1,6.8 inches,"5,000mAh"
+Edge 50 Ultra 512GB,198g,12GB,Snapdragon 8 Gen 3,6.9 inches,"5,000mAh"
+Edge 30 Fusion 128GB,168g,8GB,Snapdragon 888+ 5G,6.55 inches,"4,400mAh"
+Edge 30 Fusion 256GB,168g,12GB,Snapdragon 888+ 5G,6.55 inches,"4,400mAh"
+Edge 30 Neo 128GB,155g,6GB,Snapdragon 695 5G,6.28 inches,"4,020mAh"
+Edge 30 Neo 256GB,155g,8GB,Snapdragon 695 5G,6.28 inches,"4,020mAh"
+Moto G82 5G 128GB,173g,6GB,Snapdragon 695 5G,6.6 inches,"5,000mAh"
+Moto G82 5G 256GB,173g,8GB,Snapdragon 695 5G,6.6 inches,"5,000mAh"
+Moto G62 5G 128GB,184g,4GB,Snapdragon 480+ 5G,6.5 inches,"5,000mAh"
+Moto G62 5G 256GB,184g,6GB,Snapdragon 480+ 5G,6.5 inches,"5,000mAh"
+Moto G42 128GB,175g,4GB,Snapdragon 680 4G,6.4 inches,"5,000mAh"
+Moto G32 128GB,184g,4GB,Snapdragon 680 4G,6.5 inches,"5,000mAh"
+Moto E32s 64GB,185g,3GB,MediaTek Helio G37,6.5 inches,"5,000mAh"
+Moto E22i 32GB,169g,2GB,MediaTek Helio G37,6.5 inches,"4,020mAh"
+Moto E22 64GB,169g,4GB,MediaTek Helio G37,6.5 inches,"4,020mAh"
+Moto G22 64GB,185g,4GB,MediaTek Helio G37,6.5 inches,"5,000mAh"
+P50,181g,8GB,Snapdragon 888 4G,6.5 inches,"4,100mAh"
+P50 Pro,195g,8GB,Snapdragon 888 4G,6.6 inches,"4,360mAh"
+P50 Pocket,190g,8GB,Snapdragon 888 4G,6.9 inches (unfolded),"4,000mAh"
+Mate 40E,188g,8GB,Kirin 990E 5G,6.5 inches,"4,200mAh"
+Mate X2,295g,8GB,Kirin 9000 5G,8.0 inches (unfolded),"4,500mAh"
+Nova 9,175g,8GB,Snapdragon 778G 4G,6.57 inches,"4,300mAh"
+Nova 9 Pro,186g,8GB,Snapdragon 778G 4G,6.72 inches,"4,000mAh"
+P50E,181g,8GB,Snapdragon 778G 4G,6.5 inches,"4,100mAh"
+Mate Xs 2,255g,8GB,Snapdragon 888 4G,7.8 inches (unfolded),"4,600mAh"
+Mate 50,202g,8GB,Snapdragon 8+ Gen 1 4G,6.7 inches,"4,460mAh"
+Mate 50 Pro,205g,8GB,Snapdragon 8+ Gen 1 4G,6.74 inches,"4,700mAh"
+Nova 10,168g,8GB,Snapdragon 778G 4G,6.67 inches,"4,000mAh"
+Nova 10 Pro,191g,8GB,Snapdragon 778G 4G,6.78 inches,"4,500mAh"
+Nova 10 SE,184g,8GB,Snapdragon 680 4G,6.67 inches,"4,500mAh"
+P60,197g,8GB,Snapdragon 8+ Gen 1 4G,6.67 inches,"4,815mAh"
+P60 Pro,200g,8GB / 12GB,Snapdragon 8+ Gen 1 4G,6.67 inches,"4,815mAh"
+P60 Art,206g,8GB / 12GB,Snapdragon 8+ Gen 1 4G,6.73 inches,"5,100mAh"
+Mate X3,239g,12GB,Snapdragon 8+ Gen 1 4G,7.85 inches (unfolded),"4,800mAh"
+Mate 60,209g,12GB,Kirin 9000S,6.7 inches,"4,750mAh"
+Mate 60 Pro,225g,12GB,Kirin 9000S,6.82 inches,"5,000mAh"
+Mate 60 Pro+,235g,12GB,Kirin 9000S,6.82 inches,"5,200mAh"
+Nova 11,168g,8GB,Snapdragon 778G 4G,6.7 inches,"4,500mAh"
+Nova 11 Pro,188g,8GB,Snapdragon 778G 4G,6.78 inches,"4,500mAh"
+Nova 11 Ultra,188g,12GB,Snapdragon 778G 4G,6.78 inches,"4,500mAh"
+Pura 70,220g,12GB,Kirin 9010,6.8 inches,"4,900mAh"
+Pura 70 Pro,220g,12GB,Kirin 9010,6.8 inches,"5,050mAh"
+Pura 70 Pro+,220g,12GB,Kirin 9010,6.8 inches,"5,050mAh"
+Pura 70 Ultra,226g,16GB,Kirin 9010,6.8 inches,"5,200mAh"
+Mate 70,220g,12GB,Kirin 9010,6.7 inches,"4,900mAh"
+Mate 70 Pro,220g,12GB,Kirin 9010,6.8 inches,"5,000mAh"
+Mate 70 Pro+,220g,12GB,Kirin 9010,6.8 inches,"5,000mAh"
+Mate X6,241g,12GB,Kirin 9010,7.93 inches,"4,800mAh"
+Nova 12,168g,8GB,Kirin 9000S,6.7 inches,"4,500mAh"
+Nova 12 Pro,188g,8GB,Kirin 9000S,6.78 inches,"4,500mAh"
+Mate XT 256GB,245g,12GB,Kirin 9010,7.92 inches,"5,000mAh"
+Mate XT 512GB,245g,12GB,Kirin 9010,7.92 inches,"5,000mAh"
+Nova 13 256GB,170g,8GB,Kirin 9000S,6.7 inches,"4,600mAh"
+Nova 13 512GB,170g,8GB,Kirin 9000S,6.7 inches,"4,600mAh"
+Nova 13 Pro 256GB,190g,8GB,Kirin 9000S,6.78 inches,"4,600mAh"
+Nova 13 Pro 512GB,190g,8GB,Kirin 9000S,6.78 inches,"4,600mAh"
+G42 5G 128GB,193g,4GB,Snapdragon 480+,6.56 inches,"5,000mAh"
+G20 64GB,197g,4GB,MediaTek G35,6.52 inches,"5,050mAh"
+G20 128GB,197g,4GB,MediaTek G35,6.52 inches,"5,050mAh"
+C32 64GB,199g,3GB,Unisoc SC9863A,6.52 inches,"5,000mAh"
+C32 128GB,199g,4GB,Unisoc SC9863A,6.52 inches,"5,000mAh"
+G21 64GB,190g,4GB,Unisoc T606,6.5 inches,"5,050mAh"
+G21 128GB,190g,6GB,Unisoc T606,6.5 inches,"5,050mAh"
+C22 64GB,190g,2GB,Unisoc SC9863A,6.5 inches,"5,000mAh"
+C22 128GB,190g,3GB,Unisoc SC9863A,6.5 inches,"5,000mAh"
+G400 128GB,198g,6GB,Snapdragon 480,6.58 inches,"5,000mAh"
+Xperia 1 IV 256GB,185g,12GB,Snapdragon 8 Gen 1,6.5 inches,"5,000mAh"
+Xperia 5 IV 128GB,172g,8GB,Snapdragon 8 Gen 1,6.1 inches,"5,000mAh"
+Xperia 10 IV 128GB,161g,6GB,Snapdragon 695,6.0 inches,"5,000mAh"
+Xperia 1 V 256GB,187g,12GB,Snapdragon 8 Gen 2,6.5 inches,"5,000mAh"
+Xperia 5 V 128GB,178g,8GB,Snapdragon 8 Gen 2,6.1 inches,"5,000mAh"
+Xperia 10 V 128GB,164g,6GB,Snapdragon 695,6.1 inches,"5,000mAh"
+Xperia 1 VI 256GB,190g,12GB,Snapdragon 8 Gen 3,6.5 inches,"5,000mAh"
+Xperia 5 VI 128GB,180g,8GB,Snapdragon 8 Gen 3,6.1 inches,"5,000mAh"
+Xperia 10 VI 128GB,167g,6GB,Snapdragon 7 Gen 1,6.1 inches,"5,000mAh"
+T21,466g,4GB,Unisoc T612,10.4 inches,8200mAh
+MatePad Pro 12.2 512GB,508g,12GB,Kirin 9000S,12.2 inches,"10,100mAh"
+MatePad Pro 13.2 512GB,580g,12GB,Kirin 9000S,13.2 inches,"10,100mAh"
+Pixel 3a 64GB,147g,4GB,Snapdragon 670,5.6 inches,"3,000mAh"
+Pixel 3a XL 64GB,167g,4GB,Snapdragon 670,6.0 inches,"3,700mAh"
+Pixel 4 64GB,162g,6GB,Snapdragon 855,5.7 inches,"2,800mAh"
+Pixel 4 XL 64GB,193g,6GB,Snapdragon 855,6.3 inches,"3,700mAh"
+Pixel 4a 128GB,143g,6GB,Snapdragon 730G,5.8 inches,"3,140mAh"
+Pixel 4a 5G 128GB,168g,6GB,Snapdragon 765G,6.2 inches,"3,885mAh"
+Pixel 5 128GB,151g,8GB,Snapdragon 765G,6.0 inches,"4,080mAh"
+Pixel 5a 128GB,183g,6GB,Snapdragon 765G,6.34 inches,"4,680mAh"
+Pixel 6 128GB,207g,8GB,Google Tensor,6.4 inches,"4,614mAh"
+Pixel 6 Pro 256GB,210g,12GB,Google Tensor,6.71 inches,"5,003mAh"
+Pixel 6a 128GB,178g,6GB,Google Tensor,6.1 inches,"4,410mAh"
+Pixel 7 128GB,197g,8GB,Google Tensor G2,6.3 inches,"4,355mAh"
+Pixel 7 Pro 256GB,212g,12GB,Google Tensor G2,6.7 inches,"5,000mAh"
+Pixel 7a 128GB,193g,8GB,Google Tensor G2,6.1 inches,"4,385mAh"
+Pixel 8 128GB,187g,8GB,Google Tensor G3,6.2 inches,"4,575mAh"
+Pixel 8 Pro 256GB,213g,12GB,Google Tensor G3,6.7 inches,"5,050mAh"
+Pixel 8a 128GB,194g,8GB,Google Tensor G3,6.1 inches,"4,385mAh"
+Pixel 9 128GB,195g,8GB,Google Tensor G4,6.3 inches,"4,600mAh"
+Pixel 9 Pro 256GB,216g,12GB,Google Tensor G4,6.7 inches,"5,050mAh"
+Pixel 9 Pro XL 512GB,222g,16GB,Google Tensor G4,6.8 inches,"5,250mAh"
+Pixel 9 Pro Fold 512GB,250g,16GB,Google Tensor G4,7.6 inches,"5,500mAh"
+Spark Go 1S 64GB,190g,4GB,MediaTek Helio A22,6.6 inches,"5,000mAh"
+Megapad 11 256GB,450g,8GB,MediaTek G99,11 inches,"8,000mAh"
+Pop 9 4G 64GB,195g,3GB,Unisoc SC9863A,6.52 inches,"5,000mAh"
+Megapad 128GB,420g,6GB,MediaTek Helio G80,10.9 inches,"7,500mAh"
+Camon 30S 256GB,198g,8GB,MediaTek Dimensity 810,6.8 inches,"5,200mAh"
+Spark 30C 5G 128GB,200g,6GB,MediaTek Dimensity 6100+,6.6 inches,"5,000mAh"
+Spark 30 5G 128GB,195g,6GB,MediaTek Dimensity 6020,6.6 inches,"5,000mAh"
+Pop 9 64GB,190g,3GB,Unisoc SC9832E,6.52 inches,"5,000mAh"
+Spark 30 Pro 256GB,205g,8GB,MediaTek Helio G99,6.8 inches,"5,200mAh"
+Spark 30 128GB,192g,4GB,MediaTek Helio G85,6.6 inches,"5,000mAh"
+Phantom V Fold2 512GB,280g,12GB,MediaTek Dimensity 9200+,7.85 inches,"5,500mAh"
+Phantom V Flip2 256GB,195g,8GB,MediaTek Dimensity 8050,6.9 inches,"4,300mAh"
+Pova 6 Neo 5G 256GB,225g,8GB,MediaTek Dimensity 810,6.8 inches,"6,000mAh"
+Spark 30C 128GB,190g,4GB,MediaTek Helio G85,6.6 inches,"5,000mAh"
+Spark Go 1 64GB,195g,3GB,Unisoc SC9863A,6.52 inches,"5,000mAh"
+Camon 30S Pro 512GB,202g,12GB,MediaTek Dimensity 9200,6.9 inches,"5,200mAh"
+Spark 20P 128GB,195g,4GB,MediaTek Helio G85,6.6 inches,"5,000mAh"
+Spark 20 Pro 5G 256GB,210g,8GB,MediaTek Dimensity 810,6.8 inches,"5,200mAh"
+Pova 6 Neo 256GB,230g,8GB,MediaTek Helio G99,6.8 inches,"6,000mAh"
+Camon 30 Premier 512GB,210g,12GB,MediaTek Dimensity 9200,6.9 inches,"5,200mAh"
+Camon 30 Pro 512GB,205g,12GB,MediaTek Dimensity 8200,6.8 inches,"5,200mAh"
+Camon 30 5G 256GB,198g,8GB,MediaTek Dimensity 810,6.7 inches,"5,000mAh"
+Camon 30 128GB,195g,6GB,MediaTek Helio G99,6.7 inches,"5,000mAh"
+Pova 6 Pro 512GB,230g,12GB,MediaTek Dimensity 8100,6.9 inches,"6,000mAh"
+Spark 20 Pro+ 256GB,210g,8GB,MediaTek Helio G99,6.8 inches,"5,200mAh"
+Spark 20 Pro 128GB,195g,6GB,MediaTek Helio G85,6.6 inches,"5,000mAh"
+Spark 20 128GB,192g,4GB,MediaTek Helio G85,6.6 inches,"5,000mAh"
+Spark 20C 128GB,190g,4GB,MediaTek Helio G85,6.6 inches,"5,000mAh"
+Spark Go 2024 64GB,195g,3GB,Unisoc SC9863A,6.52 inches,"5,000mAh"
+Pop 8 64GB,195g,3GB,Unisoc SC9832E,6.52 inches,"5,000mAh"
+Camon 20s Pro 5G 512GB,202g,12GB,MediaTek Dimensity 9200,6.9 inches,"5,200mAh"
+Camon 20s Pro 256GB,202g,12GB,MediaTek Dimensity 810,6.9 inches,"5,200mAh"
+Camon 20s 256GB,200g,8GB,MediaTek Helio G99,6.7 inches,"5,000mAh"
+Camon 20 Premier 512GB,205g,12GB,MediaTek Dimensity 8200,6.8 inches,"5,200mAh"
+Camon 20 Pro 5G 256GB,200g,8GB,MediaTek Dimensity 810,6.7 inches,"5,000mAh"
+Camon 20 Pro 128GB,198g,6GB,MediaTek Helio G99,6.7 inches,"5,000mAh"
+Camon 20 128GB,195g,6GB,MediaTek Helio G99,6.7 inches,"5,000mAh"
+Pova 5G 512GB,240g,8GB,MediaTek Dimensity 900,6.9 inches,"6,000mAh"
+Pova 5 256GB,230g,8GB,MediaTek Helio G99,6.8 inches,"6,000mAh"
+Xpad,450g,6GB,MediaTek Helio G99,10.1 inches,"7,000mAh"
+Xpad 5G,470g,8GB,MediaTek Dimensity 810,10.4 inches,"8,000mAh"
+Xpad Lite,420g,4GB,Unisoc T606,9.7 inches,"6,000mAh"
+Xpad Pro,480g,12GB,MediaTek Dimensity 9200,11.0 inches,"9,000mAh"
+Hot 50,192g,6GB,MediaTek Helio G85,6.78 inches,"5,000mAh"
+Hot 50i,190g,4GB,Unisoc T606,6.6 inches,"5,000mAh"
+Hot 50 5G,195g,8GB,MediaTek Dimensity 810,6.78 inches,"5,200mAh"
+Hot 50 Pro,194g,8GB,MediaTek Helio G99,6.8 inches,"5,000mAh"
+Hot 50 Pro+,196g,12GB,MediaTek Dimensity 9200,6.9 inches,"5,300mAh"
+GT 20 Pro,198g,12GB,MediaTek Dimensity 8200,6.9 inches,"5,500mAh"
+Note 40X 5G,198g,8GB,MediaTek Dimensity 7200,6.8 inches,"5,200mAh"
+Note 40S,196g,8GB,MediaTek Helio G99,6.78 inches,"5,000mAh"
+Note 40 5G,195g,8GB,MediaTek Dimensity 8100,6.8 inches,"5,200mAh"
+Note 40 Pro 5G,195g,12GB,MediaTek Dimensity 9000,6.8 inches,"5,300mAh"
+Note 40 Racing Edition,196g,12GB,MediaTek Dimensity 9200,6.9 inches,"5,500mAh"
+Hot 40,196g,8GB,MediaTek Helio G88,6.78 inches,"5,000mAh"
+Hot 40i,195g,4GB,Unisoc T606,6.6 inches,"5,000mAh"
+Hot 40 Pro,195g,8GB,MediaTek Helio G99,6.78 inches,"5,000mAh"
+Zero 40,195g,12GB,MediaTek Dimensity 8200,6.78 inches,"5,000mAh"
+Zero 40 5G,195g,12GB,MediaTek Dimensity 8200,6.78 inches,"5,000mAh"
+Zero Flip,190g,8GB,Qualcomm Snapdragon 778G,6.7 inches,"4,500mAh"
+Note 40,190g,8GB,MediaTek Helio G99,6.78 inches,"5,000mAh"
+Note 40 Pro,190g,12GB,MediaTek Dimensity 8100,6.78 inches,"5,000mAh"
+Hot 30 128GB,196g,8GB,MediaTek Helio G88,6.78 inches,"5,000mAh"
+Hot 30i 128GB,191g,4GB,Unisoc T606,6.6 inches,"5,000mAh"
+Hot 30i NFC 128GB,191g,4GB,Unisoc T606,6.6 inches,"5,000mAh"
+Hot 30 Play 128GB,205g,4GB,MediaTek Helio G37,6.82 inches,"6,000mAh"
+Hot 30 5G 128GB,202g,8GB,MediaTek Dimensity 810,6.78 inches,"5,000mAh"
+Zero 30 256GB,185g,8GB,MediaTek Dimensity 8020,6.78 inches,"5,000mAh"
+Zero 30 5G 256GB,185g,12GB,MediaTek Dimensity 8020,6.78 inches,"5,000mAh"
+GT 10 Pro 256GB,187g,8GB,MediaTek Dimensity 8050,6.67 inches,"5,000mAh"
+Hot 12 128GB,195g,6GB,MediaTek Helio G85,6.82 inches,"5,000mAh"
+Hot 12 Play 128GB,209g,4GB,Unisoc T610,6.82 inches,"6,000mAh"
+Hot 12 Pro 128GB,191g,8GB,Unisoc T616,6.6 inches,"5,000mAh"
+Hot 12i 64GB,190g,4GB,MediaTek Helio A22,6.6 inches,"5,000mAh"
+Hot 20 128GB,198g,6GB,MediaTek Helio G85,6.82 inches,"5,000mAh"
+Hot 20 Play 128GB,209g,4GB,MediaTek Helio G37,6.82 inches,"6,000mAh"
+Hot 20s 128GB,202g,8GB,MediaTek Helio G96,6.78 inches,"5,000mAh"
+Hot 20 5G 128GB,204g,6GB,MediaTek Dimensity 810,6.6 inches,"5,000mAh"
+Hot 20i 64GB,195g,4GB,MediaTek Helio G25,6.6 inches,"5,000mAh"
+Hot 10T 128GB,205g,4GB,MediaTek Helio G70,6.82 inches,"5,000mAh"
+Hot 10S 128GB,211g,6GB,MediaTek Helio G85,6.82 inches,"6,000mAh"
+Hot 10S NFC 128GB,211g,6GB,MediaTek Helio G85,6.82 inches,"6,000mAh"
+Hot 10 Lite 64GB,195g,3GB,MediaTek Helio A25,6.6 inches,"5,000mAh"
+Hot 10 Play 64GB,207g,4GB,MediaTek Helio G25,6.82 inches,"6,000mAh"
+Hot 11 128GB,201g,4GB,MediaTek Helio G70,6.6 inches,"5,200mAh"
+Hot 11 Play 128GB,209g,4GB,MediaTek Helio G35,6.82 inches,"6,000mAh"
+Hot 11s 128GB,205g,6GB,MediaTek Helio G88,6.78 inches,"5,000mAh"
+Smart HD 32GB,195g,2GB,MediaTek Helio A20,6.1 inches,"5,000mAh"
+Note 8i 128GB,210g,6GB,MediaTek Helio G80,6.78 inches,"5,200mAh"
+Hot 10 Lite 64GB,195g,3GB,MediaTek Helio A25,6.6 inches,"5,000mAh"
+Note 8 128GB,210g,6GB,MediaTek Helio G80,6.95 inches,"5,200mAh"
+Zero 8i 128GB,210g,8GB,MediaTek Helio G90T,6.85 inches,"4,500mAh"
+Hot 10 128GB,204g,4GB,MediaTek Helio G70,6.78 inches,"5,200mAh"
+Zero 8 128GB,205g,8GB,MediaTek Helio G90T,6.85 inches,"4,500mAh"
+Smart 5 64GB,195g,3GB,MediaTek Helio A20,6.6 inches,"5,000mAh"
+9X Lite,175g,4GB,Kirin 710F,6.5 inches,"3,750mAh"
+30,185g,8GB,Kirin 985 5G,6.53 inches,"4,000mAh"
+30 Pro,190g,8GB,Kirin 990 5G,6.57 inches,"4,000mAh"
+30 Pro+,192g,12GB,Kirin 990 5G,6.57 inches,"4,000mAh"
+30S,190g,6GB,Kirin 820 5G,6.5 inches,"4,000mAh"
+X10,203g,6GB,Kirin 820 5G,6.63 inches,"4,300mAh"
+X10 Max,227g,8GB,MediaTek Dimensity 800,7.09 inches,"5,000mAh"
+Play 4,213g,6GB,MediaTek Dimensity 800,6.81 inches,"4,300mAh"
+Play 4 Pro,213g,8GB,Kirin 990 5G,6.57 inches,"4,200mAh"
+10X Lite,206g,4GB,Kirin 710A,6.67 inches,"5,000mAh"
+V40,189g,8GB,MediaTek Dimensity 1000+,6.72 inches,"4,000mAh"
+50,175g,8GB,Qualcomm Snapdragon 778G,6.57 inches,"4,300mAh"
+50 Pro,187g,8GB,Qualcomm Snapdragon 778G,6.72 inches,"4,000mAh"
+50 SE,191g,8GB,MediaTek Dimensity 900,6.78 inches,"4,000mAh"
+X20,192g,6GB,MediaTek Dimensity 900,6.67 inches,"4,300mAh"
+X20 SE,179g,6GB,MediaTek Dimensity 700,6.6 inches,"4,000mAh"
+Play 5,179g,8GB,MediaTek Dimensity 800U,6.53 inches,"3,800mAh"
+Play 5T,191g,6GB,Unisoc T610,6.5 inches,"5,000mAh"
+Magic3,202g,8GB,Qualcomm Snapdragon 888,6.76 inches,"4,600mAh"
+Magic3 Pro,213g,8GB,Qualcomm Snapdragon 888+,6.76 inches,"4,600mAh"
+Magic3 Pro+,236g,12GB,Qualcomm Snapdragon 888+,6.76 inches,"4,600mAh"
+60,179g,8GB,Qualcomm Snapdragon 778G,6.67 inches,"4,800mAh"
+60 Pro,192g,8GB,Qualcomm Snapdragon 778G+,6.78 inches,"4,800mAh"
+60 SE,191g,8GB,MediaTek Dimensity 900,6.67 inches,"4,300mAh"
+X30,189g,6GB,Qualcomm Snapdragon 695,6.81 inches,"4,800mAh"
+X30i,175g,6GB,MediaTek Dimensity 810,6.7 inches,"4,000mAh"
+X30 Max,228g,8GB,MediaTek Dimensity 900,7.09 inches,"5,000mAh"
+Play 6,190g,6GB,MediaTek MT6762G Helio G25,6.52 inches,"5,000mAh"
+Play 6T,198g,6GB,MediaTek Dimensity 700,6.74 inches,"5,000mAh"
+Magic4,199g,8GB,Qualcomm Snapdragon 8 Gen 1,6.81 inches,"4,800mAh"
+Magic4 Pro,215g,8GB,Qualcomm Snapdragon 8 Gen 1,6.81 inches,"4,600mAh"
+Magic4 Ultimate,242g,12GB,Qualcomm Snapdragon 8 Gen 1,6.81 inches,"4,600mAh"
+Magic V,288g,12GB,Qualcomm Snapdragon 8 Gen 1,7.9 inches,"4,750mAh"
+70,178g,8GB,Qualcomm Snapdragon 778G+,6.67 inches,"4,800mAh"
+70 Pro,192g,8GB,MediaTek Dimensity 8000,6.78 inches,"4,500mAh"
+70 Pro+,209g,12GB,MediaTek Dimensity 9000,6.78 inches,"4,500mAh"
+X40,172g,6GB,Qualcomm Snapdragon 695,6.67 inches,"5,100mAh"
+X40i,175g,6GB,MediaTek Dimensity 700,6.7 inches,"4,000mAh"
+Play 7,196g,4GB,MediaTek Helio G37,6.74 inches,"5,200mAh"
+Play 7T,199g,6GB,MediaTek Dimensity 6020,6.74 inches,"5,200mAh"
+Magic5,204g,8GB,Qualcomm Snapdragon 8 Gen 2,6.81 inches,"5,100mAh"
+Magic5 Pro,219g,12GB,Qualcomm Snapdragon 8 Gen 2,6.81 inches,"5,100mAh"
+Magic5 Ultimate,234g,16GB,Qualcomm Snapdragon 8 Gen 2,6.81 inches,"5,450mAh"
+Magic Vs,267g,12GB,Qualcomm Snapdragon 8+ Gen 1,7.9 inches,"5,000mAh"
+80,180g,8GB,Qualcomm Snapdragon 782G,6.67 inches,"4,800mAh"
+80 Pro,193g,12GB,Qualcomm Snapdragon 8+ Gen 1,6.78 inches,"4,800mAh"
+80 SE,175g,8GB,MediaTek Dimensity 900,6.67 inches,"4,600mAh"
+X50,185g,6GB,Qualcomm Snapdragon 6 Gen 1,6.78 inches,"5,800mAh"
+X50i,179g,6GB,MediaTek Dimensity 6020,6.7 inches,"4,500mAh"
+Play 8,191g,4GB,MediaTek Helio G36,6.52 inches,"5,000mAh"
+Play 8T,195g,6GB,MediaTek Dimensity 6100+,6.74 inches,"5,200mAh"
+Magic6,203g,8GB,Qualcomm Snapdragon 8 Gen 3,6.81 inches,"5,200mAh"
+Magic6 Pro,219g,12GB,Qualcomm Snapdragon 8 Gen 3,6.81 inches,"5,500mAh"
+Magic6 Ultimate,234g,16GB,Qualcomm Snapdragon 8 Gen 3,6.81 inches,"5,550mAh"
+Magic V2,231g,12GB,Qualcomm Snapdragon 8 Gen 2,7.92 inches,"5,000mAh"
+90,183g,12GB,Qualcomm Snapdragon 7 Gen 1,6.7 inches,"5,000mAh"
+90 Pro,192g,12GB,Qualcomm Snapdragon 8+ Gen 1,6.78 inches,"5,000mAh"
+90 SE,175g,8GB,MediaTek Dimensity 900,6.67 inches,"4,600mAh"
+X60,185g,6GB,Qualcomm Snapdragon 6 Gen 1,6.78 inches,"5,800mAh"
+X60i,179g,6GB,MediaTek Dimensity 6020,6.7 inches,"4,500mAh"
+Play 9,191g,4GB,MediaTek Helio G36,6.52 inches,"5,000mAh"
+Play 9T,195g,6GB,MediaTek Dimensity 6100+,6.74 inches,"5,200mAh"
+Magic7,203g,8GB,Qualcomm Snapdragon 8 Gen 3,6.81 inches,"5,200mAh"
+Magic7 Pro,219g,12GB,Qualcomm Snapdragon 8 Gen 3,6.81 inches,"5,500mAh"
+Magic7 Ultimate,234g,16GB,Qualcomm Snapdragon 8 Gen 3,6.81 inches,"5,550mAh"
+Magic V3,231g,12GB,Qualcomm Snapdragon 8 Gen 2,7.92 inches,"5,000mAh"
+Pad 6,460g,4GB,Qualcomm Snapdragon 662,10.1 inches,"5,100mAh"
+Pad X6,460g,3GB,MediaTek MT8768T,9.7 inches,"5,100mAh"
+Pad 7,460g,4GB,MediaTek Helio G80,10.1 inches,"5,100mAh"
+Tablet V7,480g,6GB,MediaTek Dimensity 800,10.4 inches,"7,250mAh"
+Tablet V7 Pro,485g,8GB,MediaTek Dimensity 1300T,11.0 inches,"7,250mAh"
+Pad 8,520g,6GB,Qualcomm Snapdragon 680,12.0 inches,"7,250mAh"
+Pad X8,460g,4GB,MediaTek Helio G80,10.1 inches,"5,100mAh"
+Pad X8 Lite,450g,3GB,MediaTek MT8786,9.7 inches,"5,000mAh"
+Pad V8,510g,6GB,MediaTek Dimensity 8020,11.0 inches,"7,250mAh"
+Pad V8 Pro,530g,8GB,MediaTek Dimensity 9000,12.1 inches,"8,500mAh"
+Pad 9,550g,8GB,Qualcomm Snapdragon 6 Gen 1,12.1 inches,"8,300mAh"
+Pad 9 Pro,560g,12GB,MediaTek Dimensity 8100,12.6 inches,"9,000mAh"
+Pad X9,495g,6GB,Qualcomm Snapdragon 685,11.5 inches,"7,250mAh"
+Pad X8 Pro,460g,4GB,MediaTek Helio G80,10.1 inches,"5,100mAh"
+MagicPad 13,590g,12GB,Qualcomm Snapdragon 8+ Gen 1,13.0 inches,"10,000mAh"
+MagicPad 2,580g,16GB,Qualcomm Snapdragon 8 Gen 2,13.2 inches,"10,500mAh"
+Pad X8a,450g,4GB,MediaTek MT8786,9.7 inches,"5,000mAh"
+Pad X8a Kids Edition,460g,3GB,MediaTek MT8786,9.7 inches,"5,100mAh"
+Pad X9 Pro,505g,8GB,Qualcomm Snapdragon 7s Gen 2,11.6 inches,"8,000mAh"
+Pad V9,530g,8GB,MediaTek Dimensity 9000,12.1 inches,"8,500mAh"
+Pad GT Pro,610g,12GB,Qualcomm Snapdragon 8 Gen 3,13.5 inches,"10,500mAh"
+Pad X10,475g,6GB,Qualcomm Snapdragon 685,12.1 inches,"8,850mAh"
+Pad X10 Pro,485g,8GB,Qualcomm Snapdragon 7s Gen 2,12.6 inches,"9,000mAh"
+MagicPad 3,590g,12GB,Qualcomm Snapdragon 8 Gen 3,13.0 inches,"10,500mAh"
+Pad V10,530g,8GB,MediaTek Dimensity 9000,12.1 inches,"8,500mAh"
+F2 Pro 128GB,219g,6GB,Snapdragon 865,6.67 inches,4700mAh
+M2 Pro 64GB,209g,4GB,Snapdragon 720G,6.67 inches,5000mAh
+X3 NFC 128GB,215g,6GB,Snapdragon 732G,6.67 inches,5160mAh
+M3 64GB,198g,4GB,Snapdragon 662,6.53 inches,6000mAh
+F3 128GB,196g,6GB,Snapdragon 870,6.67 inches,4520mAh
+X3 Pro 128GB,215g,6GB,Snapdragon 860,6.67 inches,5160mAh
+M3 Pro 5G 64GB,190g,4GB,MediaTek Dimensity 700,6.5 inches,5000mAh
+F3 GT 128GB,205g,6GB,MediaTek Dimensity 1200,6.67 inches,5065mAh
+X3 GT 128GB,193g,6GB,MediaTek Dimensity 1100,6.6 inches,5000mAh
+M4 Pro 5G 128GB,195g,4GB,MediaTek Dimensity 810,6.6 inches,5000mAh
+F4 128GB,195g,6GB,Snapdragon 870,6.67 inches,4500mAh
+F4 GT 128GB,210g,8GB,Snapdragon 8 Gen 1,6.67 inches,4700mAh
+X4 Pro 5G 128GB,205g,6GB,Snapdragon 695,6.67 inches,5000mAh
+M4 Pro 128GB,179g,6GB,MediaTek Helio G96,6.43 inches,5000mAh
+M5 128GB,201g,4GB,MediaTek Helio G99,6.58 inches,5000mAh
+M5s 128GB,178.8g,4GB,MediaTek Helio G95,6.43 inches,5000mAh
+F5 128GB,181g,6GB,Snapdragon 7+ Gen 2,6.67 inches,5000mAh
+F5 Pro 256GB,204g,8GB,Snapdragon 8+ Gen 1,6.67 inches,5160mAh
+X5 128GB,189g,6GB,Snapdragon 695,6.67 inches,5000mAh
+X5 Pro 128GB,181g,6GB,Snapdragon 778G,6.67 inches,5000mAh
+M6 64GB,199g,4GB,MediaTek Helio G88,6.58 inches,5000mAh
+M6 Pro 128GB,202g,6GB,Snapdragon 4 Gen 1,6.79 inches,5000mAh
+X6 128GB,193g,6GB,MediaTek Dimensity 8100,6.67 inches,5000mAh
+X6 Pro 256GB,205g,8GB,MediaTek Dimensity 8300,6.67 inches,5000mAh
+F6 128GB,190g,6GB,Snapdragon 8 Gen 2,6.67 inches,5000mAh
+F6 Pro 256GB,210g,8GB,Snapdragon 8+ Gen 2,6.67 inches,5160mAh
+C65 64GB,190g,4GB,MediaTek Helio G85,6.5 inches,5000mAh
+X7 128GB,195g,6GB,MediaTek Dimensity 8200,6.67 inches,5000mAh
+X7 Pro 256GB,207g,8GB,MediaTek Dimensity 8400,6.67 inches,6000mAh
+M7 5G 128GB,198g,6GB,MediaTek Dimensity 7025,6.67 inches,5110mAh
+Pad 5G 128GB,571g,8GB,Snapdragon 7s Gen 2,12.1 inches,"10,000mAh"
+Pad 5G 256GB,571g,8GB,Snapdragon 7s Gen 2,12.1 inches,"10,000mAh"
+Galaxy Z Fold6 256GB,239g,12GB,Snapdragon 8 Gen 3,7.6 inches,4400mAh
+Galaxy Z Fold6 512GB,239g,12GB,Snapdragon 8 Gen 3,7.6 inches,4400mAh
+Galaxy Z Fold6 1TB,239g,12GB,Snapdragon 8 Gen 3,7.6 inches,4400mAh

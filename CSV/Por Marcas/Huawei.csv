@@ -1,0 +1,43 @@
+Company Name,Model Name,Mobile Weight,RAM,Front Camera,Back Camera,Processor,Battery Capacity,Screen Size,Launched Price (Pakistan),Launched Price (India),Launched Price (China),Launched Price (USA),Launched Price (Dubai),Launched Year
+Huawei,P50,181g,8GB,13MP,50MP,Snapdragon 888 4G,"4,100mAh",6.5 inches,"PKR 129,999","INR 59,999","CNY 4,488",USD 699,"AED 2,599",2021
+Huawei,P50 Pro,195g,8GB,13MP,50MP,Snapdragon 888 4G,"4,360mAh",6.6 inches,"PKR 149,999","INR 79,999","CNY 5,988",USD 899,"AED 3,299",2021
+Huawei,P50 Pocket,190g,8GB,10.7MP,40MP,Snapdragon 888 4G,"4,000mAh",6.9 inches (unfolded),"PKR 199,999","INR 129,999","CNY 8,988","USD 1,299","AED 4,799",2021
+Huawei,Mate 40E,188g,8GB,13MP,64MP,Kirin 990E 5G,"4,200mAh",6.5 inches,"PKR 139,999","INR 69,999","CNY 4,599",USD 799,"AED 2,999",2021
+Huawei,Mate X2,295g,8GB,16MP,50MP,Kirin 9000 5G,"4,500mAh",8.0 inches (unfolded),"PKR 349,999","INR 249,999","CNY 17,999","USD 2,699","AED 9,999",2021
+Huawei,Nova 9,175g,8GB,32MP,50MP,Snapdragon 778G 4G,"4,300mAh",6.57 inches,"PKR 89,999","INR 37,999","CNY 2,699",USD 499,"AED 1,899",2021
+Huawei,Nova 9 Pro,186g,8GB,Dual 32MP,50MP,Snapdragon 778G 4G,"4,000mAh",6.72 inches,"PKR 109,999","INR 44,999","CNY 3,499",USD 599,"AED 2,199",2021
+Huawei,P50E,181g,8GB,13MP,50MP,Snapdragon 778G 4G,"4,100mAh",6.5 inches,"PKR 119,999","INR 54,999","CNY 4,088",USD 649,"AED 2,399",2022
+Huawei,Mate Xs 2,255g,8GB,10.7MP,50MP,Snapdragon 888 4G,"4,600mAh",7.8 inches (unfolded),"PKR 299,999","INR 199,999","CNY 14,999","USD 2,499","AED 8,999",2022
+Huawei,Mate 50,202g,8GB,13MP,50MP,Snapdragon 8+ Gen 1 4G,"4,460mAh",6.7 inches,"PKR 169,999","INR 84,999","CNY 6,299",USD 999,"AED 3,699",2022
+Huawei,Mate 50 Pro,205g,8GB,13MP,50MP,Snapdragon 8+ Gen 1 4G,"4,700mAh",6.74 inches,"PKR 189,999","INR 99,999","CNY 7,299","USD 1,199","AED 4,399",2022
+Huawei,Nova 10,168g,8GB,60MP,50MP,Snapdragon 778G 4G,"4,000mAh",6.67 inches,"PKR 99,999","INR 39,999","CNY 2,699",USD 499,"AED 1,899",2022
+Huawei,Nova 10 Pro,191g,8GB,Dual 60MP,50MP,Snapdragon 778G 4G,"4,500mAh",6.78 inches,"PKR 119,999","INR 49,999","CNY 3,499",USD 599,"AED 2,199",2022
+Huawei,Nova 10 SE,184g,8GB,16MP,108MP,Snapdragon 680 4G,"4,500mAh",6.67 inches,"PKR 79,999","INR 34,999","CNY 2,299",USD 399,"AED 1,499",2022
+Huawei,P60,197g,8GB,13MP,48MP (wide) + 13MP (ultrawide) + 48MP (telephoto),Snapdragon 8+ Gen 1 4G,"4,815mAh",6.67 inches,"PKR 169,999","INR 84,999","CNY 6,988",USD 999,"AED 3,699",2023
+Huawei,P60 Pro,200g,8GB / 12GB,13MP,48MP (wide) + 13MP (ultrawide) + 48MP (telephoto),Snapdragon 8+ Gen 1 4G,"4,815mAh",6.67 inches,"PKR 189,999","INR 99,999","CNY 7,988","USD 1,099","AED 4,199",2023
+Huawei,P60 Art,206g,8GB / 12GB,13MP,48MP (wide) + 40MP (ultrawide) + 48MP (telephoto),Snapdragon 8+ Gen 1 4G,"5,100mAh",6.73 inches,"PKR 219,999","INR 119,999","CNY 8,988","USD 1,299","AED 4,799",2023
+Huawei,Mate X3,239g,12GB,8MP,50MP (wide) + 13MP (ultrawide) + 12MP (periscope telephoto),Snapdragon 8+ Gen 1 4G,"4,800mAh",7.85 inches (unfolded),"PKR 349,999","INR 249,999","CNY 13,999","USD 2,499","AED 9,999",2023
+Huawei,Mate 60,209g,12GB,13MP,50MP (wide) + 12MP (ultrawide) + 12MP (telephoto),Kirin 9000S,"4,750mAh",6.7 inches,"PKR 199,999","INR 109,999","CNY 6,999","USD 1,099","AED 4,099",2023
+Huawei,Mate 60 Pro,225g,12GB,13MP,50MP (wide) + 40MP (ultrawide) + 48MP (telephoto),Kirin 9000S,"5,000mAh",6.82 inches,"PKR 229,999","INR 129,999","CNY 7,999","USD 1,299","AED 4,699",2023
+Huawei,Mate 60 Pro+,235g,12GB,13MP,50MP (wide) + 48MP (ultrawide) + 48MP (telephoto),Kirin 9000S,"5,200mAh",6.82 inches,"PKR 249,999","INR 149,999","CNY 8,999","USD 1,499","AED 5,199",2023
+Huawei,Nova 11,168g,8GB,60MP,50MP (wide) + 8MP (ultrawide),Snapdragon 778G 4G,"4,500mAh",6.7 inches,"PKR 89,999","INR 44,999","CNY 2,999",USD 499,"AED 1,899",2023
+Huawei,Nova 11 Pro,188g,8GB,60MP (ultrawide) + 8MP (telephoto),50MP (wide) + 8MP (ultrawide),Snapdragon 778G 4G,"4,500mAh",6.78 inches,"PKR 109,999","INR 54,999","CNY 3,499",USD 599,"AED 2,199",2023
+Huawei,Nova 11 Ultra,188g,12GB,60MP (ultrawide) + 8MP (telephoto),50MP (wide) + 8MP (ultrawide),Snapdragon 778G 4G,"4,500mAh",6.78 inches,"PKR 129,999","INR 64,999","CNY 3,999",USD 699,"AED 2,499",2023
+Huawei,Pura 70,220g,12GB,13MP,50MP + 13MP + 12MP,Kirin 9010,"4,900mAh",6.8 inches,"PKR 169,999","INR 84,999","CNY 6,988",USD 999,"AED 3,699",2024
+Huawei,Pura 70 Pro,220g,12GB,13MP,50MP + 12.5MP + 48MP,Kirin 9010,"5,050mAh",6.8 inches,"PKR 189,999","INR 99,999","CNY 7,988","USD 1,099","AED 4,199",2024
+Huawei,Pura 70 Pro+,220g,12GB,13MP,50MP + 12.5MP + 48MP,Kirin 9010,"5,050mAh",6.8 inches,"PKR 209,999","INR 114,999","CNY 8,988","USD 1,199","AED 4,699",2024
+Huawei,Pura 70 Ultra,226g,16GB,13MP,50MP + 40MP + 50MP,Kirin 9010,"5,200mAh",6.8 inches,"PKR 229,999","INR 129,999","CNY 9,988","USD 1,299","AED 5,199",2024
+Huawei,Mate 70,220g,12GB,13MP,50MP + 12MP,Kirin 9010,"4,900mAh",6.7 inches,"PKR 179,999","INR 89,999","CNY 5,499",USD 899,"AED 3,399",2024
+Huawei,Mate 70 Pro,220g,12GB,13MP,50MP + 12MP + 40MP,Kirin 9010,"5,000mAh",6.8 inches,"PKR 199,999","INR 104,999","CNY 6,499",USD 999,"AED 3,899",2024
+Huawei,Mate 70 Pro+,220g,12GB,13MP,50MP + 12MP + 40MP,Kirin 9010,"5,000mAh",6.8 inches,"PKR 219,999","INR 119,999","CNY 7,499","USD 1,099","AED 4,399",2024
+Huawei,Mate X6,241g,12GB,8MP,50MP + 13MP + 12MP,Kirin 9010,"4,800mAh",7.93 inches,"PKR 349,999","INR 249,999","CNY 12,999","USD 2,499","AED 9,999",2024
+Huawei,Nova 12,168g,8GB,60MP,50MP + 8MP,Kirin 9000S,"4,500mAh",6.7 inches,"PKR 89,999","INR 44,999","CNY 2,999",USD 499,"AED 1,899",2024
+Huawei,Nova 12 Pro,188g,8GB,60MP + 8MP,50MP + 8MP,Kirin 9000S,"4,500mAh",6.78 inches,"PKR 109,999","INR 54,999","CNY 3,499",USD 599,"AED 2,199",2024
+Huawei,Mate XT 256GB,245g,12GB,13MP,50MP + 12MP + 48MP,Kirin 9010,"5,000mAh",7.92 inches,"PKR 359,999","INR 259,999","CNY 13,499","USD 2,599","AED 10,499",2024
+Huawei,Mate XT 512GB,245g,12GB,13MP,50MP + 12MP + 48MP,Kirin 9010,"5,000mAh",7.92 inches,"PKR 389,999","INR 274,999","CNY 14,499","USD 2,799","AED 11,099",2024
+Huawei,Nova 13 256GB,170g,8GB,50MP,50MP + 8MP,Kirin 9000S,"4,600mAh",6.7 inches,"PKR 94,999","INR 47,999","CNY 3,199",USD 529,"AED 1,999",2024
+Huawei,Nova 13 512GB,170g,8GB,50MP,50MP + 8MP,Kirin 9000S,"4,600mAh",6.7 inches,"PKR 109,999","INR 54,999","CNY 3,699",USD 599,"AED 2,299",2024
+Huawei,Nova 13 Pro 256GB,190g,8GB,60MP + 8MP,50MP + 8MP,Kirin 9000S,"4,600mAh",6.78 inches,"PKR 119,999","INR 59,999","CNY 3,999",USD 649,"AED 2,399",2024
+Huawei,Nova 13 Pro 512GB,190g,8GB,60MP + 8MP,50MP + 8MP,Kirin 9000S,"4,600mAh",6.78 inches,"PKR 134,999","INR 67,999","CNY 4,499",USD 729,"AED 2,699",2024
+Huawei,MatePad Pro 12.2 512GB,508g,12GB,16MP,"13MP (f/1.8, AF)",Kirin 9000S,"10,100mAh",12.2 inches,"PKR 161,500","INR 49,990","CNY 4,799",USD 999,"AED 2,199",2024
+Huawei,MatePad Pro 13.2 512GB,580g,12GB,16MP,"13MP (f/1.8, AF)",Kirin 9000S,"10,100mAh",13.2 inches,"PKR 197,000","INR 58,590","CNY 5,199",USD 877,"AED 2,199",2024
