@@ -1,45 +1,53 @@
-#primero importamos las libreerias a usar
+# Importamos pandas y numpy
 import pandas as pd
 import numpy as np
 
-#cargamos el arvhico subido
-df = pd.read_csv("moviles.csv")
+# Cargamos el archivo con el separador correcto
+df = pd.read_csv("moviles.csv", sep=";")
 
-#imprimimos
-#inciamos exploracion
-print(df.head())# primeras filas
+# Verificamos los nombres de las columnas
+print("Columnas del DataFrame:", df.columns)
 
-print(df.info())#estructura de dataframe
+# Función para verificar si una columna está vacía (todos los valores son nulos o cadenas vacías)
+def is_empty_column(column):
+    """
+    Verifica si una columna está compuesta solo por cadenas vacías o valores nulos.
+    """
+    return all(pd.isna(cell) or (isinstance(cell, str) and cell.strip() == "") for cell in column)
 
-print(df.describe())
 
-#pa manejar debemos identifica
-print(df.isnull().sum())
+# Elimina columnas que están completamente vacías
+columns_to_drop = [col for col in df.columns if is_empty_column(df[col])]
+df = df.drop(columns=columns_to_drop)
 
-#para manejar los valores que faltan las vamos a quita
-df = df.dropna(axis=1, how="all")
-df = df.dropna(axis=0, how="all")
+# Elimina filas donde TODOS los valores son nulos o cadenas vacías
+df = df.dropna(how="all")
 
-numeric_df = df.select_dtypes(include=[np.number])  # Solo columnas numéricas
+# Elimina filas con demasiados valores vacíos o espacios en blanco
+# Definimos un umbral (por ejemplo, si más del 50% de los valores en una fila están vacíos, la eliminamos)
+umbral = 0.6  # 50% de los valores en la fila
+df = df[df.apply(lambda row: row.notna().sum() / len(row) >= umbral, axis=1)]
+
+# Elimina columnas numéricas con media nula o cero
+numeric_df = df.select_dtypes(include=[np.number])
 column_means = numeric_df.mean()
-
-# Calculamos la media de cada columna
-#dentificamos columnas donde la media no es significativa 
 columns_to_drop = column_means[column_means.isna() | (column_means == 0)].index
 df = df.drop(columns=columns_to_drop)
 
-#para los datos duplicados igual lo quitamos
+# Elimina filas duplicadas
 df = df.drop_duplicates()
 
-#Tranformamo dato, además de agregar las columnas
-df_dummies = pd.get_dummies(df, dummy_na = True)
-print(df_dummies)
+# Verificamos nuevamente los nombres de las columnas después de la limpieza
+print("Columnas después de la limpieza:", df.columns)
 
-#guardamos datos limpios
-df.to_csv("datos moviles limpios.csv", index=False)
+# Ordenamos el DataFrame por las columnas deseadas (solo las que existen)
+columnas_ordenar = [col for col in ["Nombre", "RAM", "Almacenamiento", "Pulgadas", "Valoracion"] if col in df.columns]
+df = df.sort_values(by=columnas_ordenar, ascending=[True] * len(columnas_ordenar))
 
-# Mostrar todas las filas y columnas
+# Guardamos los datos limpios y ordenados
+df.to_csv("datos_moviles_limpios.csv", index=False, encoding='utf-8')
+
+# Mostramos el DataFrame completo
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_columns', None)
-
 print(df)
