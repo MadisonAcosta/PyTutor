@@ -1,0 +1,251 @@
+{
+    "intents": [
+        {
+            "tag": "saludo",
+            "patterns": [
+                "Hola",
+                "¿Cómo estás?",
+                "Buenos días",
+                "¡Hola!",
+                "¡Qué tal!",
+                "Buenas tardes",
+                "Buenas noches",
+                "Hey",
+                "¿Qué onda?",
+                "Saludos"
+            ],
+            "responses": [
+                "¡Hola! ¿Cómo puedo ayudarte?",
+                "¡Hola! ¿En qué puedo ayudarte hoy?",
+                "¡Saludos! ¿Qué necesitas?",
+                "¡Hey! ¿Cómo estás?",
+                "¡Qué gusto verte!"
+            ]
+        },
+        {
+            "tag": "despedida",
+            "patterns": [
+                "Adiós",
+                "Hasta luego",
+                "Nos vemos",
+                "Hasta pronto",
+                "Chao",
+                "Me tengo que ir",
+                "Nos vemos después",
+                "Bye",
+                "Hasta la vista",
+                "Cuídate"
+            ],
+            "responses": [
+                "¡Hasta luego! Que tengas un buen día.",
+                "¡Adiós! ¡Vuelve pronto!",
+                "¡Nos vemos! No dudes en preguntar cuando lo necesites.",
+                "¡Cuídate!",
+                "Bye, hasta la próxima."
+            ]
+        },
+        {
+            "tag": "agradecimientos",
+            "patterns": [
+                "gracias",
+                "muchas gracias",
+                "mil gracias",
+                "muy amable",
+                "se lo agradezco",
+                "fue de ayuda",
+                "gracias por la ayuda",
+                "muy agradecido",
+                "gracias por su tiempo",
+                "gracias por responder"
+            ],
+            "responses": [
+                "De nada, estoy aquí para ayudar.",
+                "Feliz por ayudar.",
+                "Gracias a ti por preguntar.",
+                "¡Siempre a la orden!",
+                "Fue un placer ayudarte."
+            ]
+        },
+        {
+            "tag": "celulares_para_juegos",
+            "patterns": [
+                "Quiero un celular para jugar",
+                "Recomiéndame un celular para gaming",
+                "Necesito un teléfono potente para juegos",
+                "Busco un móvil con buen rendimiento en juegos",
+                "Celulares buenos para jugar",
+                "Teléfonos gaming",
+                "Me gustan los juegos, ¿qué celular me recomiendas?",
+                "Busco un teléfono para jugar Genshin Impact",
+                "Necesito un móvil con buena GPU",
+                "¿Cuál es el mejor celular gamer?"
+            ],
+            "responses": [
+                "Para gaming, te recomiendo un celular con un buen procesador y al menos 8GB de RAM.",
+                "Los teléfonos con Snapdragon 8 Gen 2 y buena tasa de refresco son ideales para juegos.",
+                "Busca un celular con una GPU potente y refrigeración eficiente.",
+                "Algunos celulares gaming incluyen botones físicos y triggers.",
+                "¿Tienes un presupuesto en mente? Puedo recomendarte algo según tu rango de precio."
+            ]
+        },
+        {
+            "tag": "cámara_y_fotografía",
+            "patterns": [
+                "Quiero un celular con buena cámara",
+                "Busco un teléfono para tomar fotos",
+                "Necesito un móvil con cámara de alta calidad",
+                "Celulares con mejor cámara",
+                "Me gusta la fotografía, ¿qué celular me recomiendas?",
+                "Quiero hacer fotos profesionales con mi celular",
+                "Necesito un celular con buen zoom",
+                "Busco un móvil con buena cámara nocturna",
+                "Quiero un teléfono con estabilización óptica",
+                "Me interesa un celular con cámara frontal de calidad"
+            ],
+            "responses": [
+                "Para fotografía, te sugiero un celular con al menos 50MP en la cámara principal y buen procesamiento de imagen.",
+                "Los celulares de gama alta suelen tener mejores cámaras, pero hay opciones más accesibles con buenas prestaciones.",
+                "Busca un celular con estabilización óptica para mejores fotos en movimiento.",
+                "Algunos modelos cuentan con teleobjetivo para capturas a larga distancia.",
+                "¿Prefieres un celular con cámara profesional o algo más equilibrado?"
+            ]
+        },
+        {
+            "tag": "resistencia_y_durabilidad",
+            "patterns": [
+                "Quiero un celular resistente",
+                "Busco un móvil que no se rompa fácil",
+                "Necesito un teléfono que aguante golpes",
+                "Celulares con certificación IP68",
+                "Teléfonos resistentes al agua",
+                "Quiero un celular a prueba de polvo",
+                "Busco un smartphone todoterreno",
+                "¿Qué celular es más resistente?",
+                "Celulares reforzados para trabajo pesado",
+                "Quiero un móvil con Gorilla Glass"
+            ],
+            "responses": [
+                "Si buscas un celular resistente, te recomiendo modelos con certificación IP68 o con protección militar.",
+                "Algunos celulares como los CAT o Samsung XCover están diseñados para resistir golpes y polvo.",
+                "Los celulares con Gorilla Glass suelen tener pantallas más resistentes.",
+                "Si trabajas en ambientes exigentes, te sugiero un smartphone todoterreno."
+            ]
+        },
+        {
+            "tag": "trabajo_y_productividad",
+            "patterns": [
+                "Necesito un celular para trabajo",
+                "Busco un teléfono para negocios",
+                "Celulares con buena multitarea",
+                "Quiero un móvil con S Pen",
+                "Celulares con buen almacenamiento",
+                "Quiero un teléfono rápido para trabajo",
+                "Celulares ideales para videollamadas",
+                "Móviles con buen software de productividad",
+                "Busco un teléfono con Microsoft Office",
+                "Quiero un celular con buena duración de batería para trabajo"
+            ],
+            "responses": [
+                "Si buscas un celular para trabajo, te sugiero modelos con buena batería y almacenamiento amplio.",
+                "Algunos modelos premium incluyen funciones específicas para productividad como Samsung Dex o Apple Continuity.",
+                "Si necesitas tomar notas, te recomiendo un celular con lápiz óptico como la serie Galaxy Note o S Ultra.",
+                "¿Buscas algo potente o más enfocado en batería y conectividad?"
+            ]
+        },
+        {
+            "tag": "software_y_actualizaciones",
+            "patterns": [
+                "Busco un celular con soporte de actualizaciones",
+                "Quiero un teléfono con Android puro",
+                "Celulares que reciben actualizaciones por muchos años",
+                "Móviles con mejor soporte de software",
+                "Quiero un celular con seguridad actualizada",
+                "Smartphones que se actualicen más tiempo",
+                "Busco un móvil que no se vuelva lento con el tiempo",
+                "Teléfonos que reciban Android 15",
+                "Celulares que se actualicen como los Pixel",
+                "Quiero un iPhone por las actualizaciones"
+            ],
+            "responses": [
+                "Si buscas un celular con actualizaciones garantizadas, los Google Pixel y Samsung tienen buen soporte.",
+                "Apple ofrece soporte de software por más años que la mayoría de marcas de Android.",
+                "Si te preocupa la seguridad, busca celulares con parches de seguridad mensuales.",
+                "Los celulares con Android puro suelen recibir actualizaciones más rápido que los personalizados."
+            ]
+        },
+        {
+            "tag": "celulares_por_marca",
+            "patterns": [
+                "Muéstrame celulares de Samsung",
+                "Quiero ver teléfonos de Apple",
+                "Busco un Xiaomi con buena cámara",
+                "Necesito un celular Motorola con batería grande",
+                "Recomiéndame un celular Realme",
+                "¿Qué modelos Huawei hay disponibles?",
+                "Quiero un teléfono Google Pixel",
+                "Busco un celular de OnePlus",
+                "Muéstrame opciones de celulares Asus",
+                "Quiero ver los mejores teléfonos de Sony"
+            ],
+            "responses": [
+                "Claro, aquí tienes modelos de la marca que buscas.",
+                "Estos son algunos de los mejores celulares de esa marca.",
+                "Déjame filtrar los modelos disponibles de esa marca.",
+                "Los celulares de esta marca tienen diferentes opciones, ¿buscas algo en específico?",
+                "Puedo mostrarte los últimos lanzamientos o modelos populares de esa marca."
+            ]
+        },
+        {
+            "tag": "pantalla_y_calidad",
+            "patterns": [
+                "Busco un celular con pantalla grande",
+                "Quiero un teléfono con pantalla AMOLED",
+                "Necesito un celular con tasa de refresco de 120Hz",
+                "¿Qué móviles tienen mejor pantalla?",
+                "Quiero un celular con pantalla de 6.5 pulgadas o más",
+                "Me interesa un teléfono con pantalla OLED",
+                "Busco un smartphone con HDR10",
+                "Quiero una pantalla con buena resolución",
+                "Necesito un teléfono con pantalla resistente",
+                "Busco un celular con pantalla curva"
+            ],
+            "responses": [
+                "Si buscas una pantalla grande, te recomendaría un modelo con más de 6.5 pulgadas.",
+                "Las pantallas AMOLED ofrecen mejor contraste y colores más vivos.",
+                "Los celulares con 120Hz ofrecen una experiencia más fluida al navegar y jugar.",
+                "Si quieres la mejor calidad de pantalla, busca modelos con HDR10 o Dolby Vision.",
+                "¿Te interesa más la calidad de imagen o el tamaño de la pantalla?"
+            ]
+        },
+        {
+            "tag": "celulares_nuevos_y_antiguos",
+            "patterns": [
+                "Quiero ver los celulares más nuevos de 2024",
+                "Muéstrame teléfonos lanzados este año",
+                "Busco un celular reciente",
+                "Quiero un modelo de 2023 o 2024",
+                "Necesito un teléfono de última generación",
+                "Quiero ver celulares antiguos pero buenos",
+                "¿Cuáles son los smartphones más nuevos?",
+                "Busco modelos que hayan salido este año",
+                "Muéstrame celulares recientes",
+                "Quiero un celular con las últimas tecnologías"
+            ],
+            "responses": [
+                "Aquí tienes una lista de los celulares más recientes.",
+                "Estos son algunos modelos lanzados en los últimos meses.",
+                "Si buscas lo último en tecnología, estos celulares pueden interesarte.",
+                "¿Te gustaría un modelo de gama alta o prefieres algo más asequible?",
+                "Déjame buscar los modelos más recientes en nuestra base de datos."
+            ]
+        },
+        {
+            "patterns": [
+                "¿Cuánta RAM tiene el iPhone 16?"
+            ],
+            "responses": [
+                "(Aquí se llamaría a Blenderbot para generar una respuesta)"
+            ]
+        }
+    ]
+}
