@@ -69,16 +69,16 @@
         {
             "tag": "celulares_para_juegos",
             "patterns": [
-                "Quiero un celular para jugar",
-                "Recomiéndame un celular para gaming",
-                "Necesito un teléfono potente para juegos",
-                "Busco un móvil con buen rendimiento en juegos",
-                "Celulares buenos para jugar",
+                "jugar",
+                "gaming",
+                "potente para juegos",
+                "rendimiento en juegos",
+                "jugar",
                 "Teléfonos gaming",
-                "Me gustan los juegos, ¿qué celular me recomiendas?",
-                "Busco un teléfono para jugar Genshin Impact",
-                "Necesito un móvil con buena GPU",
-                "¿Cuál es el mejor celular gamer?"
+                "Me gustan los juegos",
+                "para jugar",
+                "buena GPU",
+                "mejor celular gamer"
             ],
             "responses": [
                 "Para gaming, te recomiendo un celular con un buen procesador y al menos 8GB de RAM.",
@@ -91,16 +91,16 @@
         {
             "tag": "cámara_y_fotografía",
             "patterns": [
-                "Quiero un celular con buena cámara",
-                "Busco un teléfono para tomar fotos",
-                "Necesito un móvil con cámara de alta calidad",
-                "Celulares con mejor cámara",
-                "Me gusta la fotografía, ¿qué celular me recomiendas?",
-                "Quiero hacer fotos profesionales con mi celular",
-                "Necesito un celular con buen zoom",
-                "Busco un móvil con buena cámara nocturna",
-                "Quiero un teléfono con estabilización óptica",
-                "Me interesa un celular con cámara frontal de calidad"
+                "buena cámara",
+                "tomar fotos",
+                "cámara de alta calidad",
+                "mejor cámara",
+                "fotografía",
+                "fotos profesionales",
+                "buen zoom",
+                "cámara nocturna",
+                "estabilización óptica",
+                "cámara frontal"
             ],
             "responses": [
                 "Para fotografía, te sugiero un celular con al menos 50MP en la cámara principal y buen procesamiento de imagen.",
@@ -113,16 +113,15 @@
         {
             "tag": "resistencia_y_durabilidad",
             "patterns": [
-                "Quiero un celular resistente",
-                "Busco un móvil que no se rompa fácil",
-                "Necesito un teléfono que aguante golpes",
-                "Celulares con certificación IP68",
-                "Teléfonos resistentes al agua",
-                "Quiero un celular a prueba de polvo",
-                "Busco un smartphone todoterreno",
-                "¿Qué celular es más resistente?",
-                "Celulares reforzados para trabajo pesado",
-                "Quiero un móvil con Gorilla Glass"
+                "resistente",
+                "no se rompa fácil",
+                "aguante golpes",
+                "certificación IP68",
+                "resistente al agua",
+                "a prueba de polvo",
+                "todoterreno",
+                "reforzado",
+                "Gorilla Glass"
             ],
             "responses": [
                 "Si buscas un celular resistente, te recomiendo modelos con certificación IP68 o con protección militar.",
@@ -134,16 +133,16 @@
         {
             "tag": "trabajo_y_productividad",
             "patterns": [
-                "Necesito un celular para trabajo",
-                "Busco un teléfono para negocios",
-                "Celulares con buena multitarea",
-                "Quiero un móvil con S Pen",
-                "Celulares con buen almacenamiento",
-                "Quiero un teléfono rápido para trabajo",
-                "Celulares ideales para videollamadas",
-                "Móviles con buen software de productividad",
-                "Busco un teléfono con Microsoft Office",
-                "Quiero un celular con buena duración de batería para trabajo"
+                "trabajo",
+                "negocios",
+                "multitarea",
+                "S Pen",
+                "almacenamiento",
+                "ápido",
+                "videollamadas",
+                "productividad",
+                "Microsoft Office",
+                "batería"
             ],
             "responses": [
                 "Si buscas un celular para trabajo, te sugiero modelos con buena batería y almacenamiento amplio.",
@@ -155,16 +154,11 @@
         {
             "tag": "software_y_actualizaciones",
             "patterns": [
-                "Busco un celular con soporte de actualizaciones",
-                "Quiero un teléfono con Android puro",
-                "Celulares que reciben actualizaciones por muchos años",
-                "Móviles con mejor soporte de software",
-                "Quiero un celular con seguridad actualizada",
-                "Smartphones que se actualicen más tiempo",
-                "Busco un móvil que no se vuelva lento con el tiempo",
-                "Teléfonos que reciban Android 15",
-                "Celulares que se actualicen como los Pixel",
-                "Quiero un iPhone por las actualizaciones"
+                "soporte de actualizaciones",
+                "soporte de software",
+                "seguridad actualizada",
+                "Android 15",
+                "Actualizacion"
             ],
             "responses": [
                 "Si buscas un celular con actualizaciones garantizadas, los Google Pixel y Samsung tienen buen soporte.",
@@ -176,16 +170,16 @@
         {
             "tag": "celulares_por_marca",
             "patterns": [
-                "Muéstrame celulares de Samsung",
-                "Quiero ver teléfonos de Apple",
-                "Busco un Xiaomi con buena cámara",
-                "Necesito un celular Motorola con batería grande",
-                "Recomiéndame un celular Realme",
-                "¿Qué modelos Huawei hay disponibles?",
-                "Quiero un teléfono Google Pixel",
-                "Busco un celular de OnePlus",
-                "Muéstrame opciones de celulares Asus",
-                "Quiero ver los mejores teléfonos de Sony"
+                "Samsung",
+                "Apple",
+                "Xiaomi",
+                "Motorola",
+                "Realme",
+                "Huawei",
+                "Google Pixel",
+                "OnePlus",
+                "Asus",
+                "Sony"
             ],
             "responses": [
                 "Claro, aquí tienes modelos de la marca que buscas.",
@@ -198,16 +192,14 @@
         {
             "tag": "pantalla_y_calidad",
             "patterns": [
-                "Busco un celular con pantalla grande",
-                "Quiero un teléfono con pantalla AMOLED",
-                "Necesito un celular con tasa de refresco de 120Hz",
-                "¿Qué móviles tienen mejor pantalla?",
-                "Quiero un celular con pantalla de 6.5 pulgadas o más",
-                "Me interesa un teléfono con pantalla OLED",
-                "Busco un smartphone con HDR10",
-                "Quiero una pantalla con buena resolución",
-                "Necesito un teléfono con pantalla resistente",
-                "Busco un celular con pantalla curva"
+                "pantalla",
+                "AMOLED",
+                "Hercios",
+                "Hz",
+                "pulgadas",
+                "OLED",
+                "HDR10",
+                "resolución",
             ],
             "responses": [
                 "Si buscas una pantalla grande, te recomendaría un modelo con más de 6.5 pulgadas.",
@@ -220,16 +212,10 @@
         {
             "tag": "celulares_nuevos_y_antiguos",
             "patterns": [
-                "Quiero ver los celulares más nuevos de 2024",
-                "Muéstrame teléfonos lanzados este año",
-                "Busco un celular reciente",
-                "Quiero un modelo de 2023 o 2024",
-                "Necesito un teléfono de última generación",
-                "Quiero ver celulares antiguos pero buenos",
-                "¿Cuáles son los smartphones más nuevos?",
-                "Busco modelos que hayan salido este año",
-                "Muéstrame celulares recientes",
-                "Quiero un celular con las últimas tecnologías"
+                "nuevo",
+                "este año",
+                "reciente",
+                "última generación"
             ],
             "responses": [
                 "Aquí tienes una lista de los celulares más recientes.",
@@ -237,14 +223,6 @@
                 "Si buscas lo último en tecnología, estos celulares pueden interesarte.",
                 "¿Te gustaría un modelo de gama alta o prefieres algo más asequible?",
                 "Déjame buscar los modelos más recientes en nuestra base de datos."
-            ]
-        },
-        {
-            "patterns": [
-                "¿Cuánta RAM tiene el iPhone 16?"
-            ],
-            "responses": [
-                "(Aquí se llamaría a Blenderbot para generar una respuesta)"
             ]
         }
     ]
