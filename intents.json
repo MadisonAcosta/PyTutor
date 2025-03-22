@@ -170,16 +170,23 @@
         {
             "tag": "celulares_por_marca",
             "patterns": [
-                "Samsung",
-                "Apple",
-                "Xiaomi",
-                "Motorola",
-                "Realme",
-                "Huawei",
-                "Google Pixel",
-                "OnePlus",
-                "Asus",
-                "Sony"
+                "apple",
+                "google",
+                "honor",
+                "huawei",
+                "infinix",
+                "iqoo",
+                "lenovo",
+                "motorola",
+                "nokia",
+                "oneplus",
+                "poco",
+                "realme",
+                "samsung",
+                "sony",
+                "tecno",
+                "vivo",
+                "xiaomi"
             ],
             "responses": [
                 "Claro, aquí tienes modelos de la marca que buscas.",
@@ -224,6 +231,200 @@
                 "¿Te gustaría un modelo de gama alta o prefieres algo más asequible?",
                 "Déjame buscar los modelos más recientes en nuestra base de datos."
             ]
+        },
+        {
+            "tag": "general",
+            "patterns": [
+                "hola",
+                "necesito que me ayudes a encontrar un telefono perfecto para mi",
+                "recomendar"
+            ],
+            "responses": [
+                " Holidays are my favorite time of the year.  Do you like holidays?",
+                " Necesitos is a Spanish word that means \"little armoured one\"",
+                " Do you like to read? I am a big fan of \"Romeo and Juliet\" by Jane Austen."
+            ]
         }
+    ],
+    "evaluacionesChat": [
+        {
+            "tag": "preguntas_flujo",
+            "responses": [
+                {
+                    "pregunta": "¿Te interesa que tenga una batería de larga duración? (Sí/No)"
+                },
+                {
+                    "pregunta": "¿Cuánto es tu presupuesto máximo? (Ingresa un número)"
+                },
+                {
+                    "pregunta": "¿Qué marca prefieres? (Escribe una marca específica)"
+                },
+                {
+                    "pregunta": "¿Quieres una buena cámara? (Sí/No)"
+                },
+                {
+                    "pregunta": "¿Necesitas un celular con buen rendimiento? (Sí/No)"
+                }
+            ]
+        },
+        {
+            "tag": "respuestas_positivas",
+            "responses": [
+                "sí",
+                "si",
+                "claro",
+                "por supuesto",
+                "afirmativo",
+                "desde luego",
+                "efectivamente",
+                "correcto",
+                "exacto",
+                "seguro",
+                "vale",
+                "obviamente",
+                "obviamente",
+                "sin duda",
+                "totalmente",
+                "absolutamente",
+                "evidentemente",
+                "cómo no",
+                "así es",
+                "de acuerdo",
+                "va",
+                "sip",
+                "yep",
+                "yeah",
+                "por supuesto",
+                "por supuesto que sí"
+            ]
+        },
+        {
+            "tag": "respuestas_negativas",
+            "responses": [
+                "no",
+                "nunca",
+                "negativo",
+                "jamás",
+                "nada",
+                "para nada",
+                "nop",
+                "nel",
+                "nunca jamás",
+                "ni hablar",
+                "de ninguna manera",
+                "en absoluto",
+                "nunca",
+                "ni pensarlo",
+                "ni loco",
+                "nanay",
+                "qué va",
+                "ni en broma",
+                "ni de chiste",
+                "bajo ninguna circunstancia",
+                "de eso nada",
+                "qué dices",
+                "qué disparate",
+                "qué tontería",
+                "qué absurdo",
+                "qué locura",
+                "qué barbaridad",
+                "qué desatino",
+                "qué disparate",
+                "qué insensatez",
+                "qué necedad",
+                "qué sinrazón",
+                "qué estupidez",
+                "qué ridiculez",
+                "qué sandez",
+                "qué tontería"
+            ]
+        },
+        {
+            
+            "tag": "variantes_celulares",
+            "responses":[
+                "teléfono celular", 
+                "telefono celular", 
+                "teléfono móvil", 
+                "telefono móvil", 
+                "teléfono", 
+                "telefono", 
+                "móvil", 
+                "movil", 
+                "celular", 
+                "cel", 
+                "celulófono",
+                "smartphone", 
+                "smart phone", 
+                "dispositivo móvil", 
+                "dispositivo portatil",
+                "móvil inteligente", 
+                "movil inteligente", 
+                "terminal móvil", 
+                "terminal telefonico", 
+                "handy", 
+                "celuloco"
+            ]
+            
+        },
+        {
+            "tag": "variantes_recomendar",
+            "variantes": [
+              "recomendar", "recomendando", "recomendado",
+              "recomiendas", "recomienda", "recomendamos", "recomendáis", "recomiendan",
+              "recomendaste", "recomendó", "recomendamos", "recomendasteis", "recomendaron",
+              "recomendabas", "recomendaba", "recomendábamos", "recomendabais", "recomendaban",
+              "recomendarás", "recomendará", "recomendaremos", "recomendaréis", "recomendarán",
+              "recomendarías", "recomendaría", "recomendaríamos", "recomendaríais", "recomendarían",
+              "recomiendes", "recomiende", "recomendemos", "recomendéis", "recomienden",
+              "recomendaras", "recomendara", "recomendáramos", "recomendarais", "recomendaran",
+              "recomendases", "recomendase", "recomendásemos", "recomendaseis", "recomendasen",
+              "recomendares", "recomendare", "recomendáremos", "recomendareis", "recomendaren",
+              "recomienda", "recomiende", "recomendemos", "recomendad", "recomienden",
+              "sugerir", "sugieres", "sugiere", "sugerimos", "sugerís", "sugieren",
+              "aconsejar", "aconsejas", "aconseja", "aconsejamos", "aconsejáis", "aconsejan",
+              "proponer", "propones", "propone", "proponemos", "proponéis", "proponen",
+              "advertir", "adviertes", "advierte", "advertimos", "advertís", "advierten",
+              "encomendar", "encomiendas", "encomienda", "encomendamos", "encomendáis", "encomiendan",
+              "instar", "instas", "insta", "instamos", "instáis", "instan",
+              "orientar", "orientas", "orienta", "orientamos", "orientáis", "orientan",
+              "alentar", "alientas", "alienta", "alentamos", "alentáis", "alientan",
+              "persuadir", "persuades", "persuade", "persuadimos", "persuadís", "persuaden",
+              "indicar", "indicas", "indica", "indicamos", "indicáis", "indican",
+              "dirigir", "diriges", "dirige", "dirigimos", "dirigís", "dirigen",
+              "postular", "postulas", "postula", "postulamos", "postuláis", "postulan",
+              "suplicar", "suplicas", "suplica", "suplicamos", "suplicáis", "suplican",
+              "exhortar", "exhortas", "exhorta", "exhortamos", "exhortáis", "exhortan",
+              "clamar", "clamas", "clama", "clamamos", "clamáis", "claman",
+              "impulsar", "impulsas", "impulsa", "impulsamos", "impulsáis", "impulsan",
+              "ordenar", "ordenas", "ordena", "ordenamos", "ordenáis", "ordenan",
+              "rogar", "ruegas", "ruega", "rogamos", "rogáis", "ruegan",
+              "instigar", "instigas", "instiga", "instigamos", "instigáis", "instigan",
+              "invitar", "invitas", "invita", "invitamos", "invitáis", "invitan",
+              "animar", "animas", "anima", "animamos", "animáis", "animan"
+            ]
+        },
+        {
+            "tag": "celulares_por_marca",
+            "patterns": [
+                "Apple",
+                "Google",
+                "Honor",
+                "Huawei",
+                "Infinix",
+                "Iqoo",
+                "Lenovo",
+                "Motorola",
+                "Nokia",
+                "Oneplus",
+                "Poco",
+                "Realme",
+                "Samsung",
+                "Sony",
+                "Tecno",
+                "Vivo",
+                "Xiaomi"
+            ]
+        }          
     ]
 }
