@@ -45,8 +45,7 @@ Datos Limpios
 -Manejo excepciones/control errores
 ![Captura de pantalla (42)](https://github.com/user-attachments/assets/3cc47922-15dc-4057-99c3-d65e3f2d5023)
 ![Captura de pantalla (44)](https://github.com/user-attachments/assets/2017480e-7638-4528-9cdc-3a9ba28fbdd2)
-![Captura de pantalla (42)](https://github.com/user-attachments/assets/e1f5c83e-de42-4fd8-8db1-69313231d828)
-
+![Captura de pantalla (43)](https://github.com/user-attachments/assets/a6e64468-16bb-4903-b7b6-9158bd3e9076)
 
 -Estadísticos (Valores, gráficos, …)
 ![Captura de pantalla (37)](https://github.com/user-attachments/assets/d6604a3e-9a0a-4fcc-97ab-f6bfa190bf35)
