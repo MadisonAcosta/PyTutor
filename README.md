@@ -12,15 +12,21 @@ Proceso:
 - Se contesta segun lo que busca
 - Espera
 - Recibe la recomendación
+
 Funcionalidades:
 Por medio de un chatbot el recomendador de celulares clasifica las distintas opciones de celulares en el mercado, por medio de pocas preguntas va realizando relacioones egun lo solicitado
-[Estado del proyecto](#Procesando)
+
+Estado del proyecto:
+PreHackaton
+
 Agradecimientos
 Gracias
 
 Breve descripción del proyecto -> Alguna imagen o gif que muestre el proyecto
 
-Arquitectura del proyecto + imagen
+Arquitectura del proyecto:
+![Arquitectura](https://github.com/user-attachments/assets/8223bdba-035b-44c0-a72d-8ff11a9f725a)
+
 
 Proceso de desarrollo:
 
@@ -44,19 +50,12 @@ Datos Limpios
 ![Captura de pantalla (37)](https://github.com/user-attachments/assets/d6604a3e-9a0a-4fcc-97ab-f6bfa190bf35)
 
 
-Funcionalidades extra:
-Ejem 1: Integración del proyecto en una pág web
+Tecnología/Herramientas usadas:
+- Torch
+- Pandas
+- Numpy
+- GitHub
+- Python 3.13 y 3,12 para manejar Json
+- Json
 
-Tecnología/Herramientas usadas …
-Arquitectura (img)
-Ejem 3: Integración del proyecto en un canal WhatsApp, Discord, Telegram, Correo, …
-
-Tecnología/Herramientas usadas …
-Arquitectura (img)
-Ejem 4: Desarrollo de interfaz gráfica de usuario
-
-Tecnología/Herramientas usadas …
-Arquitectura (img)
-Ejem …: …
-
-Tecnología/Herramientas usadas …
+![images](https://github.com/user-attachments/assets/f0bee08c-5c26-4722-9bca-f63ee15a8298)
