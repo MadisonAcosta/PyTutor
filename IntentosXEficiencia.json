@@ -15,7 +15,402 @@
           "Saludos",
           "¿Hay alguien ahí?",
           "¿Me escuchas?",
-          "¿Estás ahí?"
+          "¿Estás ahí?",{
+            "intents": [
+              {
+                "tag": "saludo",
+                "patterns": [
+                  "Hola",
+                  "¿Cómo estás?",
+                  "Buenos días",
+                  "¡Hola!",
+                  "¡Qué tal!",
+                  "Buenas tardes",
+                  "Buenas noches",
+                  "Hey",
+                  "¿Qué onda?",
+                  "Saludos",
+                  "¿Alguien ahí?",
+                  "¿Escuchas?",
+                  "¿Estás ahí?",
+                  "Buenas",
+                  "Qué pasa",
+                  "Hola, ¿me ayudas?"
+                ],
+                "responses": [
+                  "¡Hola! ¿Cómo puedo ayudarte?",
+                  "¡Hola! ¿En qué puedo ayudarte hoy?",
+                  "¡Saludos! ¿Qué necesitas?",
+                  "¡Hey! ¿Cómo estás?",
+                  "¡Qué gusto verte!",
+                  "Estoy aquí para ayudarte.",
+                  "¡Hola! ¿Buscas algún celular?"
+                ]
+              },
+              {
+                "tag": "despedida",
+                "patterns": [
+                  "Adiós",
+                  "Hasta luego",
+                  "Nos vemos",
+                  "Hasta pronto",
+                  "Chao",
+                  "Tengo que irme",
+                  "Después",
+                  "Bye",
+                  "Hasta la vista",
+                  "Cuídate",
+                  "Placer hablar",
+                  "Buen día",
+                  "Próxima",
+                  "Nos vemos después",
+                  "Cierro sesión"
+                ],
+                "responses": [
+                  "¡Hasta luego! Que tengas un buen día.",
+                  "¡Adiós! ¡Vuelve pronto!",
+                  "¡Nos vemos! No dudes en preguntar.",
+                  "¡Cuídate!",
+                  "Bye, hasta la próxima.",
+                  "Fue un placer ayudarte. ¡Vuelve pronto!"
+                ]
+              },
+              {
+                "tag": "agradecimientos",
+                "patterns": [
+                  "gracias",
+                  "muchas gracias",
+                  "mil gracias",
+                  "amable",
+                  "agradezco",
+                  "ayuda",
+                  "tiempo",
+                  "responder",
+                  "te lo agradezco",
+                  "gracias por tu tiempo",
+                  "muy amable",
+                  "te agradezco mucho"
+                ],
+                "responses": [
+                  "De nada, estoy aquí para ayudar.",
+                  "Feliz por ayudar.",
+                  "Gracias a ti por preguntar.",
+                  "¡Siempre a la orden!",
+                  "Fue un placer ayudarte.",
+                  "No hay de qué.",
+                  "¡Estoy para lo que necesites!"
+                ]
+              },
+              {
+                "tag": "celulares_para_juegos",
+                "patterns": [
+                  "jugar",
+                  "gaming",
+                  "potente juegos",
+                  "rendimiento juegos",
+                  "teléfonos gaming",
+                  "juegos",
+                  "GPU",
+                  "celular gamer",
+                  "celular juegos",
+                  "móvil jugar",
+                  "teléfono rendimiento",
+                  "frames por segundo",
+                  "gráficos altos",
+                  "juegos pesados",
+                  "Fortnite en móvil",
+                  "Call of Duty móvil",
+                  "PUBG fluido",
+                  "teléfono con triggers",
+                  "mejor para juegos"
+                ],
+                "responses": [
+                  "Para gaming, recomiendo celular procesador, 8GB RAM.",
+                  "Snapdragon 8 Gen 2, tasa refresco, ideales juegos.",
+                  "Celular GPU, refrigeración.",
+                  "Celulares gaming botones físicos, triggers.",
+                  "Presupuesto, rango precio.",
+                  "Celulares juegos procesadores gama alta, pantallas tasa refresco.",
+                  "Modelos como Asus ROG Phone, Lenovo Legion, RedMagic son excelentes opciones gaming.",
+                  "Batería grande y refrigeración líquida para largas sesiones de juego."
+                ]
+              },
+              {
+                "tag": "cámara_y_fotografía",
+                "patterns": [
+                  "cámara",
+                  "fotos",
+                  "cámara alta calidad",
+                  "fotografía",
+                  "fotos profesionales",
+                  "zoom",
+                  "cámara nocturna",
+                  "estabilización óptica",
+                  "cámara frontal",
+                  "celular cámara",
+                  "móvil fotos",
+                  "teléfono selfies",
+                  "modo retrato",
+                  "gran angular",
+                  "teleobjetivo",
+                  "macro",
+                  "modo noche",
+                  "grabación 4K",
+                  "grabación 8K"
+                ],
+                "responses": [
+                  "Fotografía, celular 50MP cámara principal, procesamiento imagen.",
+                  "Celulares gama alta mejores cámaras, opciones accesibles.",
+                  "Celular estabilización óptica fotos movimiento.",
+                  "Modelos teleobjetivo capturas larga distancia.",
+                  "Celular cámara profesional, equilibrado.",
+                  "Celulares sensores grandes, IA fotos.",
+                  "Google Pixel y iPhone ofrecen calidad fotográfica impresionante.",
+                  "Huawei P60 Pro tiene zoom periscópico ideal para largas distancias."
+                ]
+              },
+              {
+                "tag": "resistencia_y_durabilidad",
+                "patterns": [
+                  "resistente",
+                  "rompa fácil",
+                  "golpes",
+                  "IP68",
+                  "agua",
+                  "polvo",
+                  "todoterreno",
+                  "reforzado",
+                  "Gorilla Glass",
+                  "celular agua",
+                  "móvil duradero",
+                  "teléfono Gorilla Glass",
+                  "sumergible",
+                  "resistente caídas",
+                  "protección militar",
+                  "resistencia extrema",
+                  "uso rudo"
+                ],
+                "responses": [
+                  "Celular resistente, IP68, protección militar.",
+                  "Celulares CAT, Samsung XCover golpes, polvo.",
+                  "Celulares Gorilla Glass pantallas resistentes.",
+                  "Smartphone todoterreno ambientes exigentes.",
+                  "IP68 celular agua, polvo.",
+                  "Algunos modelos soportan caídas desde 1.5 metros sin daño.",
+                  "Busca certificación MIL-STD-810H para máxima resistencia."
+                ]
+              },
+              {
+                "tag": "trabajo_y_productividad",
+                "patterns": [
+                  "trabajo",
+                  "negocios",
+                  "multitarea",
+                  "S Pen",
+                  "almacenamiento",
+                  "rápido",
+                  "videollamadas",
+                  "productividad",
+                  "Office",
+                  "batería",
+                  "celular trabajo",
+                  "móvil productividad",
+                  "teléfono batería",
+                  "pantalla grande trabajo",
+                  "ofimática móvil",
+                  "compatibilidad Office",
+                  "conectar monitor",
+                  "Dex"
+                ],
+                "responses": [
+                  "Celular trabajo, batería, almacenamiento.",
+                  "Modelos premium productividad Samsung Dex, Apple Continuity.",
+                  "Celular lápiz óptico Galaxy Note, S Ultra.",
+                  "Potente, batería, conectividad.",
+                  "Celulares procesadores RAM multitarea.",
+                  "Recomiendo Galaxy Z Fold para multitarea avanzada.",
+                  "Buena cámara frontal para videollamadas claras y nítidas."
+                ]
+              },
+              {
+                "tag": "software_y_actualizaciones",
+                "patterns": [
+                  "actualizaciones",
+                  "software",
+                  "seguridad",
+                  "Android 15",
+                  "actualizacion",
+                  "celular actualizaciones",
+                  "móvil Android",
+                  "teléfono seguridad",
+                  "soporte largo",
+                  "actualizaciones rápidas",
+                  "sistema operativo",
+                  "nuevas funciones",
+                  "parches de seguridad",
+                  "actualización mensual"
+                ],
+                "responses": [
+                  "Celular actualizaciones Google Pixel, Samsung.",
+                  "Apple soporte software 5 años o más.",
+                  "Celulares parches seguridad mensuales.",
+                  "Celulares Android actualizaciones garantizadas 4 años.",
+                  "Actualizaciones rendimiento seguridad.",
+                  "Busca modelos con soporte extendido como Fairphone o OnePlus."
+                ]
+              },
+              {
+                "tag": "celulares_por_marca",
+                "patterns": [
+                  "Samsung",
+                  "Apple",
+                  "Xiaomi",
+                  "Motorola",
+                  "Realme",
+                  "Huawei",
+                  "Pixel",
+                  "OnePlus",
+                  "Asus",
+                  "Sony",
+                  "celulares Samsung",
+                  "móvil Apple",
+                  "teléfonos Xiaomi",
+                  "iPhone",
+                  "Redmi",
+                  "Oppo",
+                  "Honor",
+                  "Vivo",
+                  "Nokia",
+                  "Meizu"
+                ],
+                "responses": [
+                  "Modelos marca.",
+                  "Mejores celulares marca.",
+                  "Celulares marca opciones.",
+                  "Lanzamientos, modelos marca.",
+                  "Marca fortalezas, debilidades, características.",
+                  "Samsung destaca en pantallas, Apple en ecosistema.",
+                  "Xiaomi ofrece buena relación calidad-precio."
+                ]
+              },
+              {
+                "tag": "pantalla_y_calidad",
+                "patterns": [
+                  "pantalla",
+                  "AMOLED",
+                  "Hercios",
+                  "Hz",
+                  "pulgadas",
+                  "OLED",
+                  "HDR10",
+                  "resolución",
+                  "tasa refresco",
+                  "calidad pantalla",
+                  "tamaño pantalla",
+                  "tipo pantalla",
+                  "celular pantalla",
+                  "móvil AMOLED",
+                  "teléfono 120Hz",
+                  "celulares pantalla",
+                  "móvil resolución",
+                  "pantalla curva",
+                  "Dolby Vision",
+                  "120Hz",
+                  "144Hz",
+                  "240Hz",
+                  "pantalla plegable",
+                  "pantalla externa"
+                ],
+                "responses": [
+                  "Pantalla 6.5 pulgadas.",
+                  "Pantallas AMOLED contraste, colores.",
+                  "Celulares 120Hz experiencia fluida.",
+                  "Calidad pantalla HDR10, Dolby Vision.",
+                  "Calidad imagen, tamaño pantalla.",
+                  "Tasa refresco Hz imagen segundo.",
+                  "AMOLED colores vibrantes y negros profundos.",
+                  "144Hz para juegos de alta fluidez.",
+                  "Pantalla plegable innovadora en Galaxy Fold y Z Flip."
+                ]
+              },
+              {
+                "tag": "conectividad",
+                "patterns": [
+                  "5G",
+                  "Wi-Fi 6",
+                  "Wi-Fi 6E",
+                  "Bluetooth 5.2",
+                  "NFC",
+                  "eSIM",
+                  "Dual SIM",
+                  "USB-C",
+                  "carga inalámbrica",
+                  "compatibilidad redes",
+                  "conectividad rápida",
+                  "infraestructura 5G",
+                  "conexión estable",
+                  "compartir internet"
+                ],
+                "responses": [
+                  "Celulares 5G velocidad alta descarga.",
+                  "Wi-Fi 6E conexión rápida y estable.",
+                  "Bluetooth 5.2 eficiente y de bajo consumo.",
+                  "Modelos con NFC para pagos móviles.",
+                  "eSIM compatibilidad y Dual SIM.",
+                  "USB-C carga rápida y transferencia datos."
+                ]
+              },
+              {
+                "tag": "bateria_autonomia",
+                "patterns": [
+                  "batería",
+                  "duración batería",
+                  "autonomía",
+                  "mAh",
+                  "carga rápida",
+                  "carga inalámbrica",
+                  "batería grande",
+                  "carga inversa",
+                  "power bank",
+                  "rendimiento batería",
+                  "día completo batería",
+                  "doble batería",
+                  "super carga rápida",
+                  "100W carga"
+                ],
+                "responses": [
+                  "Celulares 5000mAh batería día completo.",
+                  "Carga rápida 65W o superior disponible en varios modelos.",
+                  "Carga inalámbrica conveniente y eficiente.",
+                  "Modelos con carga inversa para accesorios.",
+                  "Batería de larga duración ideal para usuarios intensivos."
+                ]
+              },
+              {
+                "tag": "precio_y_presupuesto",
+                "patterns": [
+                  "barato",
+                  "económico",
+                  "bueno y barato",
+                  "calidad precio",
+                  "presupuesto",
+                  "gama media",
+                  "mejor precio",
+                  "buena oferta",
+                  "celulares accesibles",
+                  "cuánto cuesta",
+                  "precio celular",
+                  "celular barato"
+                ],
+                "responses": [
+                  "Recomiendo Xiaomi, Realme y Motorola por calidad-precio.",
+                  "Celulares económicos sin sacrificar rendimiento.",
+                  "Gama media como Galaxy A y Redmi Note ofrecen buenas prestaciones.",
+                  "Consulta precios actualizados según tu región."
+                ]
+              }
+            ]
+          }
         ],
         "responses": [
           "¡Hola! ¿Cómo puedo ayudarte?",
