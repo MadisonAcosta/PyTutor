@@ -12,15 +12,21 @@ Proceso:
 - Se contesta segun lo que busca
 - Espera
 - Recibe la recomendación
+
 Funcionalidades:
 Por medio de un chatbot el recomendador de celulares clasifica las distintas opciones de celulares en el mercado, por medio de pocas preguntas va realizando relacioones egun lo solicitado
-[Estado del proyecto](#Procesando)
+
+Estado del proyecto:
+PreHackaton
+
 Agradecimientos
 Gracias
 
 Breve descripción del proyecto -> Alguna imagen o gif que muestre el proyecto
 
-Arquitectura del proyecto + imagen
+Arquitectura del proyecto:
+![Arquitectura](https://github.com/user-attachments/assets/8223bdba-035b-44c0-a72d-8ff11a9f725a)
+
 
 Proceso de desarrollo:
 
@@ -38,25 +44,22 @@ Datos Limpios
 
 -Manejo excepciones/control errores
 ![Captura de pantalla (42)](https://github.com/user-attachments/assets/3cc47922-15dc-4057-99c3-d65e3f2d5023)
-
+![Captura de pantalla (44)](https://github.com/user-attachments/assets/2017480e-7638-4528-9cdc-3a9ba28fbdd2)
+![Captura de pantalla (43)](https://github.com/user-attachments/assets/a6e64468-16bb-4903-b7b6-9158bd3e9076)
 
 -Estadísticos (Valores, gráficos, …)
 ![Captura de pantalla (37)](https://github.com/user-attachments/assets/d6604a3e-9a0a-4fcc-97ab-f6bfa190bf35)
+![Captura de pantalla (38)](https://github.com/user-attachments/assets/576dbf54-07f3-4b3d-8461-0e2b51f5f13a)
 
 
-Funcionalidades extra:
-Ejem 1: Integración del proyecto en una pág web
+Tecnología/Herramientas usadas:
+![Captura de pantalla (50)](https://github.com/user-attachments/assets/f8eb9ca4-4c65-45ae-8c24-3f30393c1972)
 
-Tecnología/Herramientas usadas …
-Arquitectura (img)
-Ejem 3: Integración del proyecto en un canal WhatsApp, Discord, Telegram, Correo, …
+- Torch
+- Pandas
+- Numpy
+- GitHub
+- Python 3.13 y 3,12 para manejar Json
+- Json
 
-Tecnología/Herramientas usadas …
-Arquitectura (img)
-Ejem 4: Desarrollo de interfaz gráfica de usuario
-
-Tecnología/Herramientas usadas …
-Arquitectura (img)
-Ejem …: …
-
-Tecnología/Herramientas usadas …
+![images](https://github.com/user-attachments/assets/f0bee08c-5c26-4722-9bca-f63ee15a8298)
